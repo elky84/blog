@@ -25,7 +25,7 @@ IDE 자체에서 지원해주는 다양한 편의 기능을 활용하는 것으�
 
 `New UI` 설정을 켜고, `Monokai Pro` Theme로 설정하고 쓰고 있는데 이 설정이 맘에 든다.
 
-![Monokai Pro Theme](/img/2023/monokai_pro.gif)
+![Monokai Pro Theme](../..../../blog/img/2023/monokai_pro.gif)
 
 [Monokai Pro Theme - IntelliJ IDEs Theme \| Marketplace](https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme)
 
@@ -33,7 +33,7 @@ IDE 자체에서 지원해주는 다양한 편의 기능을 활용하는 것으�
 
 `Visual Studio Code Dark Plus` 도 괜찮다. `Visual Studio Code`를 몇몇 언어를 제외하고는 IDE나 Plugin을 통한 Tool 모음으로 쓰게 되는데, 동일한 컬러 세팅인 것이 맘에 든다.
 
-![VS Code Theme](/img/2023/intellij_idea_vscode_theme.gif)
+![VS Code Theme](../..../../blog/img/2023/intellij_idea_vscode_theme.gif)
 
 [VSCode Theme - IntelliJ IDEs Theme \| Marketplace](https://plugins.jetbrains.com/plugin/19177-vscode-theme)
 

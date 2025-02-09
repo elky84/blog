@@ -13,7 +13,7 @@ comments: true
 
 * 💡 [LINQ explained with sketches](https://steven-giesel.com/blogPost/d65c5411-a69b-489f-b73f-18ce0ed8678d)
 
-![Linq](/img/2022/LinqPart1.webp)
+![Linq](../..../../blog/img/2022/LinqPart1.webp)
 * Select : 특정 값을 선택 (또는 변환 역할도 가능) like Projection
 * Where : 추출
 * SelectMany : 병합
@@ -21,7 +21,7 @@ comments: true
 * OrderBy : 정렬
 * Distinct : 중복 제거
 
-![Linq](/img/2022/LinqPart2.webp)
+![Linq](../..../../blog/img/2022/LinqPart2.webp)
 * Aggregate : 집계
 * Chunk: 특정 갯수 단위로 묶음
 * Union : 두 목록의 고유한 요소만 추출. (병합+Distinct)
@@ -31,7 +31,7 @@ comments: true
 * Append: 뒤에 붙이기
 * Prepend : 앞에 붙이기
 
-![Linq](/img/2022/LinqPart3.webp)
+![Linq](../..../../blog/img/2022/LinqPart3.webp)
 
 * MaxBy : 가장 큰 객체 찾기
 * DistinctBy : Distinct와 유사하지만, Select처럼 값의 형태를 변환할 수 있음
@@ -40,7 +40,7 @@ comments: true
 * Join : SQL Left Join과 유사함. 한 목록을 기준으로, 다른 목록에서 조건이 맞는 데이터를 추출하고, 결과를 바탕으로 새 형태로 변환 가능
 
 
-![Linq](/img/2022/LinqPart4.webp)
+![Linq](../..../../blog/img/2022/LinqPart4.webp)
 * Take : 특정 갯수만큼 꺼내기
 * Skip : 특정 갯수만큼 건너뛰기
 * OfType : 해당 타입의 일종인 원소만 추출
