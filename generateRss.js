@@ -4,8 +4,8 @@ const RSS = require("rss");
 const generateRSS = () => {
   // RSS 피드 초기화
   const feed = new RSS({
-    title: "Elky's blog",
-    description: "blog 블로그",
+    title: "Elky's tech blog",
+    description: "테크 블로그",
     feed_url: "https://elky84.github.io/blog/rss.xml",
     site_url: "https://elky84.github.io/blog",
     language: "ko",
