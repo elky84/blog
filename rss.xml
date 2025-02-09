@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Elky's blog]]></title>
+        <description><![CDATA[blog 블로그]]></description>
+        <link>https://elky84.github.io/blog</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 09 Feb 2025 08:33:53 GMT</lastBuildDate>
+        <atom:link href="https://elky84.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 09 Feb 2025 08:33:53 GMT</pubDate>
+        <language><![CDATA[ko]]></language>
+        <item>
+            <title><![CDATA[리눅스 데스크탑 적응을 위한 리눅스 서버]]></title>
+            <description><![CDATA[리눅스 데스크탑 적응을 위한 리눅스 서버 - 태그: Windows, Linux, OS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2025/2025-01-26-linux_desktop</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2025/2025-01-26-linux_desktop</guid>
+            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리눅스 컴플렉스]]></title>
+            <description><![CDATA[리눅스 컴플렉스 - 태그: Windows, Linux, OS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2025/2025-01-19-linux_complex</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2025/2025-01-19-linux_complex</guid>
+            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[윈도우도 훌륭한 개발머신이라구]]></title>
+            <description><![CDATA[윈도우도 훌륭한 개발머신이라구 - 태그: Windows, Mac, Linux, OS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2025/2025-01-18-good_dev_os_windows</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2025/2025-01-18-good_dev_os_windows</guid>
+            <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dev Toy를 지속하는 이유]]></title>
+            <description><![CDATA[Dev Toy를 지속하는 이유 - 태그: Dev Toy]]></description>
+            <link>https://elky84.github.io/blog#/posts/2025/2025-01-13-persistence_dev_toy</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2025/2025-01-13-persistence_dev_toy</guid>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 한해 회고]]></title>
+            <description><![CDATA[2024 한해 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2025/2025-01-01-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2025/2025-01-01-retrospect</guid>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 세번쨰 컴퓨터]]></title>
+            <description><![CDATA[나의 세번쨰 컴퓨터 - 태그: 1997년]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-11-23-my_third_computer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-11-23-my_third_computer</guid>
+            <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[첫 면접]]></title>
+            <description><![CDATA[첫 면접 - 태그: 면접, 첫면접]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-11-05-first_interview</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-11-05-first_interview</guid>
+            <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[거창하지 않아도 괜찮을 수 있는 설계]]></title>
+            <description><![CDATA[거창하지 않아도 괜찮을 수 있는 설계 - 태그: 설계]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-11-03-design</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-11-03-design</guid>
+            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[흑백 요리사를 보고]]></title>
+            <description><![CDATA[흑백 요리사를 보고 - 태그: 생각, 흑백요리사, 의도]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-10-30-culinary_class_wars</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-10-30-culinary_class_wars</guid>
+            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[때로는 머리보다 손이 먼저]]></title>
+            <description><![CDATA[때로는 머리보다 손이 먼저 - 태그: 태도]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-10-29-type-first</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-10-29-type-first</guid>
+            <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[함께 일하기]]></title>
+            <description><![CDATA[함께 일하기 - 태그: 태도]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-10-27-working_together</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-10-27-working_together</guid>
+            <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[옵시디언 이야기]]></title>
+            <description><![CDATA[옵시디언 이야기 - 태그: 옵시디언, 기록 툴]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-06-03-obsidian_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-06-03-obsidian_story</guid>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[넷츠고와 함께 했던 인터넷]]></title>
+            <description><![CDATA[넷츠고와 함께 했던 인터넷 - 태그: 1998년]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-04-24-netsgo_with_internet</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-04-24-netsgo_with_internet</guid>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 두번째 컴퓨터 이야기]]></title>
+            <description><![CDATA[나의 두번째 컴퓨터 이야기 - 태그: 1997년]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-03-23-my_second_computer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-03-23-my_second_computer</guid>
+            <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[컴퓨터 학원 이야기 (1996년)]]></title>
+            <description><![CDATA[컴퓨터 학원 이야기 (1996년) - 태그: 컴퓨터학원, 1996년]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-03-17-computer_academy</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-03-17-computer_academy</guid>
+            <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2023 한해 회고]]></title>
+            <description><![CDATA[2023 한해 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2024/2024-01-05-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2024/2024-01-05-retrospect</guid>
+            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js 사용기]]></title>
+            <description><![CDATA[Next.js 사용기 - 태그: Next.js, Java Script, Type Script]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-07-05-next_js_usage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-07-05-next_js_usage</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EA FIFA 23 FUT 웹 앱이야기]]></title>
+            <description><![CDATA[EA FIFA 23 FUT 웹 앱이야기 - 태그: FIFA23, 동시 접근]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-07-04-ea_fifa23_fut_webapp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-07-04-ea_fifa23_fut_webapp</guid>
+            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 첫 컴퓨터 (486 DX II)]]></title>
+            <description><![CDATA[나의 첫 컴퓨터 (486 DX II) - 태그: PC]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-06-17-my_first_computer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-06-17-my_first_computer</guid>
+            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gmarket 빅 스마일 데이 쿠폰 오류]]></title>
+            <description><![CDATA[Gmarket 빅 스마일 데이 쿠폰 오류 - 태그: Error]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-05-10-gmarket_coupon_error</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-05-10-gmarket_coupon_error</guid>
+            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VS Code Extensions 추천]]></title>
+            <description><![CDATA[VS Code Extensions 추천 - 태그: Extensions, IDE, VS Code]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-03-12-vscode_plugins</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-03-12-vscode_plugins</guid>
+            <pubDate>Sun, 12 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flutter 사용기]]></title>
+            <description><![CDATA[Flutter 사용기 - 태그: Flutter, Dart, Flame]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-02-26-flutter_usage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-02-26-flutter_usage</guid>
+            <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intellij IDEA New UI (Beta)]]></title>
+            <description><![CDATA[Intellij IDEA New UI (Beta) - 태그: IDE, Kotlin]]></description>
+            <link>https://elky84.github.io/blog#/posts/2023/2023-01-25-intellij_idea_new_ui</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2023/2023-01-25-intellij_idea_new_ui</guid>
+            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2022 한해 회고]]></title>
+            <description><![CDATA[2022 한해 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-12-31-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-12-31-retrospect</guid>
+            <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[동기부여]]></title>
+            <description><![CDATA[동기부여 - 태그: 동기부여]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-11-28-motivation</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-11-28-motivation</guid>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[축구와 소프트웨어 개발 - 02 로테이션]]></title>
+            <description><![CDATA[축구와 소프트웨어 개발 - 02 로테이션 - 태그: 주절주절, 방법론, 축구, 팀 개발, 축구와 소프트웨어 개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-11-27-soccer_and_software_develop_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-11-27-soccer_and_software_develop_02</guid>
+            <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유닛 테스트의 범위]]></title>
+            <description><![CDATA[유닛 테스트의 범위 - 태그: 유닛 테스트]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-11-26-unit_test_range</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-11-26-unit_test_range</guid>
+            <pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edge DB]]></title>
+            <description><![CDATA[Edge DB - 태그: EdgeDB, GraphDB, PostgreSQL]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-09-26-edgedb</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-09-26-edgedb</guid>
+            <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++의 시대는 저물고 있고, Rust는 떠오르고 있다]]></title>
+            <description><![CDATA[C++의 시대는 저물고 있고, Rust는 떠오르고 있다 - 태그: C++, Rust]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-09-25-cpp_time_is_end_rust_is_rising</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-09-25-cpp_time_is_end_rust_is_rising</guid>
+            <pubDate>Sun, 25 Sep 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nullable (Feat. Kotlin, C#)]]></title>
+            <description><![CDATA[Nullable (Feat. Kotlin, C#) - 태그: , nullable, C#, Java, Kotlin]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-09-18-nullable</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-09-18-nullable</guid>
+            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[자기 객관화]]></title>
+            <description><![CDATA[자기 객관화 - 태그: 단점, 개선]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-09-17-self_objectification</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-09-17-self_objectification</guid>
+            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리더의 덕목 - 03. 과정도 중요시 여기기]]></title>
+            <description><![CDATA[리더의 덕목 - 03. 과정도 중요시 여기기 - 태그: 리더쉽, 개발 프로세스, 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-08-21-leader&apos;s_virtues_03</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-08-21-leader&apos;s_virtues_03</guid>
+            <pubDate>Sun, 21 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[주니어를 위한 성장에 필요한 노력]]></title>
+            <description><![CDATA[주니어를 위한 성장에 필요한 노력 - 태그: 주니어, 성장, 노력]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-08-21-junior_effort</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-08-21-junior_effort</guid>
+            <pubDate>Sun, 21 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 서버에서의 DB 사용 전략 - 02 NoSQL]]></title>
+            <description><![CDATA[게임 서버에서의 DB 사용 전략 - 02 NoSQL - 태그: 게임 서버, 데이터베이스, NoSQL]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-08-21-game_server_of_database_usage_02_nosql</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-08-21-game_server_of_database_usage_02_nosql</guid>
+            <pubDate>Sun, 21 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C# LINQ 함수들의 작동 방식 (with skeches)]]></title>
+            <description><![CDATA[C# LINQ 함수들의 작동 방식 (with skeches) - 태그: C#, LINQ]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-08-20-linq_vs_java_streams</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-08-20-linq_vs_java_streams</guid>
+            <pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 22.04에 .NET 6 공식 탑재]]></title>
+            <description><![CDATA[Ubuntu 22.04에 .NET 6 공식 탑재 - 태그: C#, .NET 6, Ubuntu]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-08-18-ubuntu_22_04_include_dotnet6</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-08-18-ubuntu_22_04_include_dotnet6</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta (Facebook)에서 서버 사이드 언어로 Rust를 승인]]></title>
+            <description><![CDATA[Meta (Facebook)에서 서버 사이드 언어로 Rust를 승인 - 태그: Rust, Meta, Facebook]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-08-01-facebook_use_rust</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-08-01-facebook_use_rust</guid>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google이 C++ 호환 언어 Carbon 출시]]></title>
+            <description><![CDATA[Google이 C++ 호환 언어 Carbon 출시 - 태그: Carbon, C++, Google]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-07-27-google_carbon</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-07-27-google_carbon</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoDB 6.0 릴리즈와 7가지 핵심 변경 사항]]></title>
+            <description><![CDATA[MongoDB 6.0 릴리즈와 7가지 핵심 변경 사항 - 태그: MongoDB]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-07-21-mongodb_6_0_release</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-07-21-mongodb_6_0_release</guid>
+            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[예외처리 03 - try-catch 그리고 throw]]></title>
+            <description><![CDATA[예외처리 03 - try-catch 그리고 throw - 태그: Exception, Exception Process, Log]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-06-11-exception_process_03</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-06-11-exception_process_03</guid>
+            <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리더의 덕목 - 02. 비전 제시]]></title>
+            <description><![CDATA[리더의 덕목 - 02. 비전 제시 - 태그: 리더쉽, 비전]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-05-15-suggest_vision</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-05-15-suggest_vision</guid>
+            <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[성장을 위한 환경 (Feat. Dev Toy)]]></title>
+            <description><![CDATA[성장을 위한 환경 (Feat. Dev Toy) - 태그: 성장, 환경, Dev Toy]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-05-05-environment_for_growup</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-05-05-environment_for_growup</guid>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[마음껏 실패하기 (Feat. Dev Toy)]]></title>
+            <description><![CDATA[마음껏 실패하기 (Feat. Dev Toy) - 태그: 실패, Dev Toy]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-04-15-to_heart_is_content_fail</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-04-15-to_heart_is_content_fail</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[똑똑한 동료, 일 잘하는 동료]]></title>
+            <description><![CDATA[똑똑한 동료, 일 잘하는 동료 - 태그: 동료, 채용, 조직]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-03-31-smart_partner_work_well_partner</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-03-31-smart_partner_work_well_partner</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[예외처리 02 - 로그 잘 남기기]]></title>
+            <description><![CDATA[예외처리 02 - 로그 잘 남기기 - 태그: Exception, Exception Process, Log]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-31-exception_process_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-31-exception_process_02</guid>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[예외처리 01 - 결과 코드 주고 받기]]></title>
+            <description><![CDATA[예외처리 01 - 결과 코드 주고 받기 - 태그: Exception, Exception Process, Result Code]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-27-exception_process_01</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-27-exception_process_01</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoSQLBooster for MongoDB]]></title>
+            <description><![CDATA[NoSQLBooster for MongoDB - 태그: MongoDB, NoSQL, Tool, Recommend]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-25-NoSQLBooster</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-25-NoSQLBooster</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 서버를 웹 서버와 같이 쓰기]]></title>
+            <description><![CDATA[게임 서버를 웹 서버와 같이 쓰기 - 태그: 게임서버, 웹서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-24-web_server_wiith_game_server</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-24-web_server_wiith_game_server</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[트랜잭션 이야기 02 - 만능이 아닌 트랜잭션]]></title>
+            <description><![CDATA[트랜잭션 이야기 02 - 만능이 아닌 트랜잭션 - 태그: DB, 데이터베이스, Transaction, 트랜잭션]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-23-db_trasanction_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-23-db_trasanction_02</guid>
+            <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MobaXterm 소개]]></title>
+            <description><![CDATA[MobaXterm 소개 - 태그: RDP, SSH, VNC, Tool, Recoomend]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-17-introduce_MobaXterm</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-17-introduce_MobaXterm</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HeidiSQL 소개]]></title>
+            <description><![CDATA[HeidiSQL 소개 - 태그: DBMS, RDB, Tool, Recoomend]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-16-Introduce_HeidiSql</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-16-Introduce_HeidiSql</guid>
+            <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[.NET 용어 정리]]></title>
+            <description><![CDATA[.NET 용어 정리 - 태그: .NET, dotnet, C#]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-11-DotNET_terms_organize</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-11-DotNET_terms_organize</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 Notion 활용법]]></title>
+            <description><![CDATA[나의 Notion 활용법 - 태그: Notion, Record, Memo]]></description>
+            <link>https://elky84.github.io/blog#/posts/2022/2022-01-02-usage_of_my_notion</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-01-02-usage_of_my_notion</guid>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 한해 회고]]></title>
+            <description><![CDATA[2021 한해 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2021/2021-12-31-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2021/2021-12-31-retrospect</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리더의 덕목 - 01. 빠른 의사 결정]]></title>
+            <description><![CDATA[리더의 덕목 - 01. 빠른 의사 결정 - 태그: 리더쉽, 의사 결정]]></description>
+            <link>https://elky84.github.io/blog#/posts/2021/2021-08-01-leader&apos;s_virtues_fast_decision</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2021/2021-08-01-leader&apos;s_virtues_fast_decision</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fork - Git Client 추천]]></title>
+            <description><![CDATA[Fork - Git Client 추천 - 태그: Git, Git Client]]></description>
+            <link>https://elky84.github.io/blog#/posts/2021/2021-06-10-fork_git_client</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2021/2021-06-10-fork_git_client</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2020년 회고]]></title>
+            <description><![CDATA[2020년 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-12-31-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-12-31-retrospect</guid>
+            <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C# .NET CORE 기반 Web-Crawler]]></title>
+            <description><![CDATA[C# .NET CORE 기반 Web-Crawler - 태그: Crawler, Web-Crawler]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-12-27-web_crawler</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-12-27-web_crawler</guid>
+            <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C# .NET CORE 기반 Lol-Crawler]]></title>
+            <description><![CDATA[C# .NET CORE 기반 Lol-Crawler - 태그: Crawler, LOL]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-12-27-lol_crawler</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-12-27-lol_crawler</guid>
+            <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 개발 에서의 git vs svn]]></title>
+            <description><![CDATA[게임 개발 에서의 git vs svn - 태그: git, svn]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-19-git_vs_svn</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-19-git_vs_svn</guid>
+            <pubDate>Sun, 19 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[온라인 코드 리뷰에 대해서]]></title>
+            <description><![CDATA[온라인 코드 리뷰에 대해서 - 태그: 코드 리뷰]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-19-about_online_code_review</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-19-about_online_code_review</guid>
+            <pubDate>Sun, 19 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 서버에서의 DB 사용 전략 - 1. DB를 사용하는 방식]]></title>
+            <description><![CDATA[게임 서버에서의 DB 사용 전략 - 1. DB를 사용하는 방식 - 태그: 게임 서버, 데이터베이스, RDB, RDBMS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-18-game_server_of_database_usage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-18-game_server_of_database_usage</guid>
+            <pubDate>Sat, 18 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임과 웹에서 다른 프로토콜 하위 호환]]></title>
+            <description><![CDATA[게임과 웹에서 다른 프로토콜 하위 호환 - 태그: 하위호환, 게임 서버, 웹 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-06-backward_compatible_with_other_protocols_in_games_and_web</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-06-backward_compatible_with_other_protocols_in_games_and_web</guid>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docker로 소켓 서버를 운용하기 어려운 이유]]></title>
+            <description><![CDATA[Docker로 소켓 서버를 운용하기 어려운 이유 - 태그: Docker, 소켓 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-05-difficult_operate_a_socket_server_with_docker</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-05-difficult_operate_a_socket_server_with_docker</guid>
+            <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C# VS Java]]></title>
+            <description><![CDATA[C# VS Java - 태그: C#, Java]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-04-C#_vs_Java</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-04-C#_vs_Java</guid>
+            <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Notion (노션) 추천]]></title>
+            <description><![CDATA[Notion (노션) 추천 - 태그: Notion, 기록, 문서화]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-07-01-recommend_notion</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-07-01-recommend_notion</guid>
+            <pubDate>Wed, 01 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ocelot - ASP.NET CORE API Gateway]]></title>
+            <description><![CDATA[Ocelot - ASP.NET CORE API Gateway - 태그: ASP.NET CORE, Ocelot, .NET CORE, API Gateway]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-02-07-ocelot</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-02-07-ocelot</guid>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[트랜잭션 이야기 - 개발자 마다 다른 DB를 대하는 자세]]></title>
+            <description><![CDATA[트랜잭션 이야기 - 개발자 마다 다른 DB를 대하는 자세 - 태그: DB, 데이터베이스, Transaction, 트랜잭션]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-02-07-db_transaction</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-02-07-db_transaction</guid>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetis 이야기]]></title>
+            <description><![CDATA[Kubernetis 이야기 - 태그: Docker, Kubernetis, k8s]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-01-08-kubernetis</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-01-08-kubernetis</guid>
+            <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docker 이야기]]></title>
+            <description><![CDATA[Docker 이야기 - 태그: Docker, 도커]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-01-08-docker</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-01-08-docker</guid>
+            <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2019년 회고]]></title>
+            <description><![CDATA[2019년 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2020/2020-01-02-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2020/2020-01-02-retrospect</guid>
+            <pubDate>Thu, 02 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[개발자의 성장]]></title>
+            <description><![CDATA[개발자의 성장 - 태그: 개발자, 성장]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-12-12-developers_growth</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-12-12-developers_growth</guid>
+            <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[웹과 게임에서 다르게 사용되는 캐시]]></title>
+            <description><![CDATA[웹과 게임에서 다르게 사용되는 캐시 - 태그: 캐시, 캐싱, Cache, Caching]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-10-10-cache_usage_web_vs_game</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-10-10-cache_usage_web_vs_game</guid>
+            <pubDate>Thu, 10 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[개발자로서의 똑똑하다는 의미]]></title>
+            <description><![CDATA[개발자로서의 똑똑하다는 의미 - 태그: 개발자, 성장]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-10-01-smart_sense_as_a_developer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-10-01-smart_sense_as_a_developer</guid>
+            <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[.NET CORE 3.0 릴리즈]]></title>
+            <description><![CDATA[.NET CORE 3.0 릴리즈 - 태그: .NET CORE 3, .NET CORE, C#]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-09-25-dotnet_core_3_release</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-09-25-dotnet_core_3_release</guid>
+            <pubDate>Wed, 25 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[조직 문화가 중요한 이유]]></title>
+            <description><![CDATA[조직 문화가 중요한 이유 - 태그: 조직문화, 조직]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-09-20-important_of_organizations_culture</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-09-20-important_of_organizations_culture</guid>
+            <pubDate>Fri, 20 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 개발로 복귀 하는 이야기]]></title>
+            <description><![CDATA[게임 개발로 복귀 하는 이야기 - 태그: 게임개발, 웹개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-06-03-return_to_game_develop</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-06-03-return_to_game_develop</guid>
+            <pubDate>Mon, 03 Jun 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[.NET CORE]]></title>
+            <description><![CDATA[.NET CORE - 태그: C#, .NET CORE]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-06-02-dotnet_core</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-06-02-dotnet_core</guid>
+            <pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 서버 개발과 웹 서버 개발의 차이]]></title>
+            <description><![CDATA[게임 서버 개발과 웹 서버 개발의 차이 - 태그: 게임개발, 웹개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-03-17-game_server_develop_difference_web_server_develop</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-03-17-game_server_develop_difference_web_server_develop</guid>
+            <pubDate>Sun, 17 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 게임 서버 개발자의 웹 프론트엔드 적응기]]></title>
+            <description><![CDATA[C++ 게임 서버 개발자의 웹 프론트엔드 적응기 - 태그: 게임개발, 웹개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-03-17-cpp_game_developer_to_web_frontend_developer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-03-17-cpp_game_developer_to_web_frontend_developer</guid>
+            <pubDate>Sun, 17 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(내맘대로 선정한) 프로그래머를 위한 필독서 두번째]]></title>
+            <description><![CDATA[(내맘대로 선정한) 프로그래머를 위한 필독서 두번째 - 태그: 필독서]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-03-03-a_must_read_books_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-03-03-a_must_read_books_02</guid>
+            <pubDate>Sun, 03 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 게임 개발자의 웹 & 플랫폼 개발 적응기]]></title>
+            <description><![CDATA[C++ 게임 개발자의 웹 & 플랫폼 개발 적응기 - 태그: 게임개발, 웹개발, 플랫폼개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-03-02-cpp_game_developer_to_web_developer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-03-02-cpp_game_developer_to_web_developer</guid>
+            <pubDate>Sat, 02 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[특수화와 범용성]]></title>
+            <description><![CDATA[특수화와 범용성 - 태그: 특수화, 범용성]]></description>
+            <link>https://elky84.github.io/blog#/posts/2019/2019-01-06-specialize_and_universality</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2019/2019-01-06-specialize_and_universality</guid>
+            <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2018년 회고]]></title>
+            <description><![CDATA[2018년 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-12-31-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-12-31-retrospect</guid>
+            <pubDate>Mon, 31 Dec 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL LIMIT + Offset 쿼리 성능 문제]]></title>
+            <description><![CDATA[MySQL LIMIT + Offset 쿼리 성능 문제 - 태그: MySQL, Limit Offset, 데이터베이스, Database]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-10-05-mysql</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-10-05-mysql</guid>
+            <pubDate>Fri, 05 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu vs CentOS]]></title>
+            <description><![CDATA[Ubuntu vs CentOS - 태그: 리눅스, Ubuntu, CentOS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-10-01-ubuntu_vs_centos</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-10-01-ubuntu_vs_centos</guid>
+            <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vue.js 참고 자료]]></title>
+            <description><![CDATA[Vue.js 참고 자료 - 태그: JavaScript, Vue.js, Frontend]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-30-vue_js_link</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-30-vue_js_link</guid>
+            <pubDate>Sat, 29 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript 적응기 01 - Vue.js]]></title>
+            <description><![CDATA[JavaScript 적응기 01 - Vue.js - 태그: JavaScript, Vue.js, Frontend]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-30-js_vue_js_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-30-js_vue_js_story</guid>
+            <pubDate>Sat, 29 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoDB 서버 구축 및 아키텍쳐]]></title>
+            <description><![CDATA[MongoDB 서버 구축 및 아키텍쳐 - 태그: MongoDB, NoSQL]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-26-mongodb_architecture</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-26-mongodb_architecture</guid>
+            <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoDB 장단점, 활용시 고민할 사항들]]></title>
+            <description><![CDATA[MongoDB 장단점, 활용시 고민할 사항들 - 태그: MongoDB, NoSQL]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-26-mongodb</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-26-mongodb</guid>
+            <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JWT 사용기]]></title>
+            <description><![CDATA[JWT 사용기 - 태그: JWT]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-26-jwt</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-26-jwt</guid>
+            <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 적응기 06 - Netflix Zuul]]></title>
+            <description><![CDATA[Java 적응기 06 - Netflix Zuul - 태그: Java, Spring, Spring Boot, Zuul, MSA, API Gateway]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-23-java_zuul_use_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-23-java_zuul_use_story</guid>
+            <pubDate>Sun, 23 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSA 그리고 API Gateway]]></title>
+            <description><![CDATA[MSA 그리고 API Gateway - 태그: MSA, API Gateawy]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-21-MSA_and_API_Gateway</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-21-MSA_and_API_Gateway</guid>
+            <pubDate>Fri, 21 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[윈도우 10 앱 추천]]></title>
+            <description><![CDATA[윈도우 10 앱 추천 - 태그: 도구, 윈도우10, 추천]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-01-recommend_windows_10_apps</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-01-recommend_windows_10_apps</guid>
+            <pubDate>Sat, 01 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[크롬 확장 프로그램 추천]]></title>
+            <description><![CDATA[크롬 확장 프로그램 추천 - 태그: 크롬, 추천]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-01-recommend_chrome_extentions</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-01-recommend_chrome_extentions</guid>
+            <pubDate>Sat, 01 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[안드로이드 앱 추천]]></title>
+            <description><![CDATA[안드로이드 앱 추천 - 태그: 안드로이드, 추천]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-09-01-recommend_android_apps</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-09-01-recommend_android_apps</guid>
+            <pubDate>Sat, 01 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[내가 다양한 언어를 익힌 이유]]></title>
+            <description><![CDATA[내가 다양한 언어를 익힌 이유 - 태그: 프로그래밍 언어]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-08-31-why_learn_many_languages</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-08-31-why_learn_many_languages</guid>
+            <pubDate>Fri, 31 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[브루스 테이트의 세븐 랭귀지]]></title>
+            <description><![CDATA[브루스 테이트의 세븐 랭귀지 - 태그: 임백준, 프로그래밍 언어, 루비, lo, 프롤로그, 스칼라, 얼랭, 클로저, 하스켈]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-08-31-seven_languages</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-08-31-seven_languages</guid>
+            <pubDate>Fri, 31 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100만건이상의 데이터를 다룰때 생기는 RDB성능 이야기]]></title>
+            <description><![CDATA[100만건이상의 데이터를 다룰때 생기는 RDB성능 이야기 - 태그: 데이터베이스]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-08-19-when_dbms_slowly</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-08-19-when_dbms_slowly</guid>
+            <pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[샤딩과 레플리카]]></title>
+            <description><![CDATA[샤딩과 레플리카 - 태그: 샤딩, 레플리카, 데이터베이스]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-08-19-sharding_and_replica</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-08-19-sharding_and_replica</guid>
+            <pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L4 스위치 도입시 생겼던 이야기]]></title>
+            <description><![CDATA[L4 스위치 도입시 생겼던 이야기 - 태그: 네트워크, L4스위치]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-08-19-network_issue</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-08-19-network_issue</guid>
+            <pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[프로그래밍에서의 기본기란?]]></title>
+            <description><![CDATA[프로그래밍에서의 기본기란? - 태그: 기본기, 태도]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-08-06-basic_skill_in_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-08-06-basic_skill_in_programming</guid>
+            <pubDate>Mon, 06 Aug 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(내맘대로 선정한) 프로그래머를 위한 필독서 16선]]></title>
+            <description><![CDATA[(내맘대로 선정한) 프로그래머를 위한 필독서 16선 - 태그: 필독서]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-07-05-a_must_read_books</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-07-05-a_must_read_books</guid>
+            <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LOL 게임 기록 (+임무) 장애에 대한 이야기]]></title>
+            <description><![CDATA[LOL 게임 기록 (+임무) 장애에 대한 이야기 - 태그: LOL, 장애, 빅데이터]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-07-01-lol_match_history_trouble</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-07-01-lol_match_history_trouble</guid>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoDB 팁]]></title>
+            <description><![CDATA[MongoDB 팁 - 태그: MongoDB, NoSQL, 빅데이터]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-06-27-mongodb_tips</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-06-27-mongodb_tips</guid>
+            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리액티브 프로그래밍]]></title>
+            <description><![CDATA[리액티브 프로그래밍 - 태그: Reactive Programming, 리액티브 프로그래밍, 병렬, 비동기]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-06-22-reactive_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-06-22-reactive_programming</guid>
+            <pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[비동기 프로그래밍 관점에서의 Akka]]></title>
+            <description><![CDATA[비동기 프로그래밍 관점에서의 Akka - 태그: Java, Akka, Async, Actor, Pararell]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-06-21-akka</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-06-21-akka</guid>
+            <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[도구의 중요성]]></title>
+            <description><![CDATA[도구의 중요성 - 태그: 개발 도구]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-06-09-importance_of_tools</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-06-09-importance_of_tools</guid>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[실수를 두려워하지 않기]]></title>
+            <description><![CDATA[실수를 두려워하지 않기 - 태그: 실수, 태도]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-06-01-dont_be_afraid_from_mistake</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-06-01-dont_be_afraid_from_mistake</guid>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[경험과 인사이트]]></title>
+            <description><![CDATA[경험과 인사이트 - 태그: 주절주절, 경험, 인사이트]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-05-01-experience_and_insight</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-05-01-experience_and_insight</guid>
+            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[오픈 소스 기여하기]]></title>
+            <description><![CDATA[오픈 소스 기여하기 - 태그: 주절주절, 오픈 소스, Github]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-04-30-opensource_dev_start</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-04-30-opensource_dev_start</guid>
+            <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[내가 그거 해봐서 아는데]]></title>
+            <description><![CDATA[내가 그거 해봐서 아는데 - 태그: 주절 주절, 경험, 근거]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-04-29-i_had_experience_that_so...</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-04-29-i_had_experience_that_so...</guid>
+            <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dev Toy 시작하기]]></title>
+            <description><![CDATA[Dev Toy 시작하기 - 태그: Dev Toy]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-04-18-start_dev_toy</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-04-18-start_dev_toy</guid>
+            <pubDate>Wed, 18 Apr 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[합리적 반박]]></title>
+            <description><![CDATA[합리적 반박 - 태그: 주절주절, 반박, 반론, 토론, 합리적 반박]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-03-25-reasonable_refutation</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-03-25-reasonable_refutation</guid>
+            <pubDate>Fri, 23 Mar 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[삶을 지속적으로 개선하기]]></title>
+            <description><![CDATA[삶을 지속적으로 개선하기 - 태그: 주절주절, 개선, 삶을 지속적으로 개선하기]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-03-23-continually_improve_my_life</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-03-23-continually_improve_my_life</guid>
+            <pubDate>Fri, 23 Mar 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[코딩 호러의 이펙티브 프로그래밍]]></title>
+            <description><![CDATA[코딩 호러의 이펙티브 프로그래밍 - 태그: 방법론, 개발기]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-02-03-effective_programming_of_coding_horror</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-02-03-effective_programming_of_coding_horror</guid>
+            <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[정보 수집]]></title>
+            <description><![CDATA[정보 수집 - 태그: 주절주절, 정보 수집]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-02-03-collect_information</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-02-03-collect_information</guid>
+            <pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[임백준의 대살개문]]></title>
+            <description><![CDATA[임백준의 대살개문 - 태그: 임백준]]></description>
+            <link>https://elky84.github.io/blog#/posts/2018/2018-01-17-daesalgaemoon</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2018/2018-01-17-daesalgaemoon</guid>
+            <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[폴리글랏 프로그래밍]]></title>
+            <description><![CDATA[폴리글랏 프로그래밍 - 태그: 임백준, 폴리글랏 프로그래밍]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-12-19-polyglot_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-12-19-polyglot_programming</guid>
+            <pubDate>Tue, 19 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Python 사용기 - Airflow]]></title>
+            <description><![CDATA[Python 사용기 - Airflow - 태그: Python, Airflow]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-12-16-python_usage_airflow</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-12-16-python_usage_airflow</guid>
+            <pubDate>Sat, 16 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 적응기 05 - JPA]]></title>
+            <description><![CDATA[Java 적응기 05 - JPA - 태그: Java, JPA]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-11-21-java_jpa_use_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-11-21-java_jpa_use_story</guid>
+            <pubDate>Tue, 21 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 적응기 04 - Spring]]></title>
+            <description><![CDATA[Java 적응기 04 - Spring - 태그: Java, Spring]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-10-29-java_spring_use_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-10-29-java_spring_use_story</guid>
+            <pubDate>Sun, 29 Oct 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[지적 받아들이기]]></title>
+            <description><![CDATA[지적 받아들이기 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-27-accept_point_out</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-27-accept_point_out</guid>
+            <pubDate>Mon, 28 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[사소한 차이]]></title>
+            <description><![CDATA[사소한 차이 - 태그: 자기 개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-25-small-difference</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-25-small-difference</guid>
+            <pubDate>Fri, 25 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[기록 집착]]></title>
+            <description><![CDATA[기록 집착 - 태그: 기록]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-25-record_freak</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-25-record_freak</guid>
+            <pubDate>Fri, 25 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Head First Software Development]]></title>
+            <description><![CDATA[Head First Software Development - 태그: 개발방법론, 애자일]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-16-head_first_software_development</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-16-head_first_software_development</guid>
+            <pubDate>Wed, 16 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[일을 했으면 성과를 내라]]></title>
+            <description><![CDATA[일을 했으면 성과를 내라 - 태그: 자기관리]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-10-do_you_work_make_you_result</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-10-do_you_work_make_you_result</guid>
+            <pubDate>Fri, 11 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[능률적인 프로그래머]]></title>
+            <description><![CDATA[능률적인 프로그래머 - 태그: 자기관리]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-09-efficient_programmer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-09-efficient_programmer</guid>
+            <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리딩 - 알렉스 퍼거슨]]></title>
+            <description><![CDATA[리딩 - 알렉스 퍼거슨 - 태그: 리더쉽, 알렉스 퍼거슨]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-07-alex_fergerson_leading</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-07-alex_fergerson_leading</guid>
+            <pubDate>Mon, 07 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 업무 관리법]]></title>
+            <description><![CDATA[나의 업무 관리법 - 태그: 시간 관리]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-06-smart_works</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-06-smart_works</guid>
+            <pubDate>Sun, 06 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[프로그래머의 길 멘토에게 묻다.]]></title>
+            <description><![CDATA[프로그래머의 길 멘토에게 묻다. - 태그: 멘토, 가이드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-05-question_to_mentor_as_programmers_lord</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-05-question_to_mentor_as_programmers_lord</guid>
+            <pubDate>Sat, 05 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[축구와 소프트웨어 개발 - 01 역할과 협업]]></title>
+            <description><![CDATA[축구와 소프트웨어 개발 - 01 역할과 협업 - 태그: 주절주절, 방법론, 축구, 팀 개발, 축구와 소프트웨어 개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-08-01-soccer_and_software_develop</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-08-01-soccer_and_software_develop</guid>
+            <pubDate>Tue, 01 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[드리밍 인 코드 (Dreaming in code)]]></title>
+            <description><![CDATA[드리밍 인 코드 (Dreaming in code) - 태그: 개발기]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-31-dreaming_in_code</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-31-dreaming_in_code</guid>
+            <pubDate>Mon, 31 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 적응기 03 - Akka]]></title>
+            <description><![CDATA[Java 적응기 03 - Akka - 태그: Java, Akka, Actor]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-29-java_akka_use_history</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-29-java_akka_use_history</guid>
+            <pubDate>Sat, 29 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 적응기 02 - Netty]]></title>
+            <description><![CDATA[Java 적응기 02 - Netty - 태그: Java, Netty]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-28-java_netty_use_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-28-java_netty_use_story</guid>
+            <pubDate>Fri, 28 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 적응기 01]]></title>
+            <description><![CDATA[Java 적응기 01 - 태그: Java]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-27-started_java</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-27-started_java</guid>
+            <pubDate>Thu, 27 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[변화에 뒤쳐지지 않기]]></title>
+            <description><![CDATA[변화에 뒤쳐지지 않기 - 태그: 방법론]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-26-agree_with_changes</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-26-agree_with_changes</guid>
+            <pubDate>Wed, 26 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 업무 기록과 관리]]></title>
+            <description><![CDATA[나의 업무 기록과 관리 - 태그: 방법론, 업무 관리, To do list]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-24-my_work_history_and_manage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-24-my_work_history_and_manage</guid>
+            <pubDate>Mon, 24 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[경험에 의한 편견에서 벗어나기]]></title>
+            <description><![CDATA[경험에 의한 편견에서 벗어나기 - 태그: 방법론]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-21-get_out_expirience_on_prejudice</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-21-get_out_expirience_on_prejudice</guid>
+            <pubDate>Fri, 21 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[핵심 C++ 표준 라이브러리 - 우리 C++이 달라졌어요!]]></title>
+            <description><![CDATA[핵심 C++ 표준 라이브러리 - 우리 C++이 달라졌어요! - 태그: C++, C++11]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-07-12-cpp_standard_library</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-07-12-cpp_standard_library</guid>
+            <pubDate>Wed, 12 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rust 이야기]]></title>
+            <description><![CDATA[Rust 이야기 - 태그: Rust, 러스트]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-06-05-rust</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-06-05-rust</guid>
+            <pubDate>Mon, 05 Jun 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruby vs Python]]></title>
+            <description><![CDATA[Ruby vs Python - 태그: Ruby, Python]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-03-23-ruby_vs_python</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-03-23-ruby_vs_python</guid>
+            <pubDate>Thu, 23 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[스크립트 언어 이야기]]></title>
+            <description><![CDATA[스크립트 언어 이야기 - 태그: 스크립트 언어]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-03-22-script_language_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-03-22-script_language_story</guid>
+            <pubDate>Wed, 22 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ElasticSearch]]></title>
+            <description><![CDATA[ElasticSearch - 태그: 엘라스틱서치, ElasticSearch]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-03-21-elastic_search</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-03-21-elastic_search</guid>
+            <pubDate>Tue, 21 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET CORE 사용법]]></title>
+            <description><![CDATA[ASP.NET CORE 사용법 - 태그: ASP.NET CORE, .NET CORE]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-03-02-asp_net_core_usage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-03-02-asp_net_core_usage</guid>
+            <pubDate>Thu, 02 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Django to ASP.NET CORE]]></title>
+            <description><![CDATA[Django to ASP.NET CORE - 태그: Django, ASP.NET CORE]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-03-01-django_to_asp_net_core</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-03-01-django_to_asp_net_core</guid>
+            <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Django에서 ASP.NET CORE로 전환한 이유]]></title>
+            <description><![CDATA[Django에서 ASP.NET CORE로 전환한 이유 - 태그: Django, ASP.NET CORE]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-02-28-reason_django_to_asp_net_core</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-02-28-reason_django_to_asp_net_core</guid>
+            <pubDate>Tue, 28 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[동적 언어와 정적 언어]]></title>
+            <description><![CDATA[동적 언어와 정적 언어 - 태그: 동적 언어, 정적 언어]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-02-21-dynamic_language_vs_static_language</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-02-21-dynamic_language_vs_static_language</guid>
+            <pubDate>Tue, 21 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[데이터 통계 이야기]]></title>
+            <description><![CDATA[데이터 통계 이야기 - 태그: 통계]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-02-01-data_statistics</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-02-01-data_statistics</guid>
+            <pubDate>Wed, 01 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Github Pages로 이전 후기 & 주요 글 이전 완료]]></title>
+            <description><![CDATA[Github Pages로 이전 후기 & 주요 글 이전 완료 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-01-27-review_on_github_pages</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-01-27-review_on_github_pages</guid>
+            <pubDate>Fri, 27 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[블로그 이전.]]></title>
+            <description><![CDATA[블로그 이전. - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2017/2017-01-25-move_on_github_pages</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2017/2017-01-25-move_on_github_pages</guid>
+            <pubDate>Wed, 25 Jan 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[python 입문기]]></title>
+            <description><![CDATA[python 입문기 - 태그: Python, 파이썬]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-11-22-started_python</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-11-22-started_python</guid>
+            <pubDate>Tue, 22 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TCP 서버와 웹서버 장단점 비교]]></title>
+            <description><![CDATA[TCP 서버와 웹서버 장단점 비교 - 태그: 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-09-27-tcp_server_vs_web_server</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-09-27-tcp_server_vs_web_server</guid>
+            <pubDate>Tue, 27 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Django 사용법]]></title>
+            <description><![CDATA[Django 사용법 - 태그: Python, Django]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-09-27-django_usage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-09-27-django_usage</guid>
+            <pubDate>Tue, 27 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Django Celery 사용법 [with RabbitMQ]]]></title>
+            <description><![CDATA[Django Celery 사용법 [with RabbitMQ] - 태그: Python, Django, Celery, RabbitMQ]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-09-27-django_celery_usage</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-09-27-django_celery_usage</guid>
+            <pubDate>Tue, 27 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[웹서버 장단점 비교]]></title>
+            <description><![CDATA[웹서버 장단점 비교 - 태그: 웹서버, 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-09-27-comparison_web_server</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-09-27-comparison_web_server</guid>
+            <pubDate>Tue, 27 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CentOS 7 Redmine 세팅]]></title>
+            <description><![CDATA[CentOS 7 Redmine 세팅 - 태그: Ruby, Rails, Redmine, CentOS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-09-27-cent_os_7_redmine_setting</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-09-27-cent_os_7_redmine_setting</guid>
+            <pubDate>Tue, 27 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FlatBuffers Guide]]></title>
+            <description><![CDATA[FlatBuffers Guide - 태그: Protocol, Flatbuffers]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-07-22-flatbuffers_guide</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-07-22-flatbuffers_guide</guid>
+            <pubDate>Fri, 22 Jul 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[서버 개발 및 운영에 필요한 작업]]></title>
+            <description><![CDATA[서버 개발 및 운영에 필요한 작업 - 태그: 서버, 운용, 운영]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-07-12-server_dev_plan</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-07-12-server_dev_plan</guid>
+            <pubDate>Tue, 12 Jul 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LightSDK 공개]]></title>
+            <description><![CDATA[LightSDK 공개 - 태그: 오픈 소스, Light, C++]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-07-12-open_light_sdk</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-07-12-open_light_sdk</guid>
+            <pubDate>Tue, 12 Jul 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thread design 02 - 잠금을 고민하지 않는 프로그래밍]]></title>
+            <description><![CDATA[Thread design 02 - 잠금을 고민하지 않는 프로그래밍 - 태그: Async, 병렬프로그래밍, 멀티스레드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-07-09-thread_design_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-07-09-thread_design_02</guid>
+            <pubDate>Sat, 09 Jul 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rails 5.0 Release]]></title>
+            <description><![CDATA[Rails 5.0 Release - 태그: Rails, Ruby]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-07-02-rails_5_0_release</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-07-02-rails_5_0_release</guid>
+            <pubDate>Sat, 02 Jul 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[동기화에 대한 간략 정리]]></title>
+            <description><![CDATA[동기화에 대한 간략 정리 - 태그: 서버, 동기화]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-06-30-analysis_network_sync</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-06-30-analysis_network_sync</guid>
+            <pubDate>Thu, 30 Jun 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[프로그래밍 언어 이야기]]></title>
+            <description><![CDATA[프로그래밍 언어 이야기 - 태그: 프로그래밍 언어]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-04-20-programming_language</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-04-20-programming_language</guid>
+            <pubDate>Wed, 20 Apr 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VSCode with Rails]]></title>
+            <description><![CDATA[VSCode with Rails - 태그: Ruby, Rails, VSCode]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-04-14-vscode_with_rails</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-04-14-vscode_with_rails</guid>
+            <pubDate>Thu, 14 Apr 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PostgresSQL 요약 정리]]></title>
+            <description><![CDATA[PostgresSQL 요약 정리 - 태그: PostgresSQL, RDB, Database, 데이터베이스]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-02-08-summary_postgres_sql</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-02-08-summary_postgres_sql</guid>
+            <pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CentOS 7 Rails 세팅]]></title>
+            <description><![CDATA[CentOS 7 Rails 세팅 - 태그: Ruby, Rails, CentOS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2016/2016-02-08-cent_os_7_rails_setting</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2016/2016-02-08-cent_os_7_rails_setting</guid>
+            <pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[업무 일지 쓰는 법]]></title>
+            <description><![CDATA[업무 일지 쓰는 법 - 태그: 주절주절, 문서화, 기록]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-12-09-daily_work_history</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-12-09-daily_work_history</guid>
+            <pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[윈도우 서버에서 리눅스 서버로의 감상]]></title>
+            <description><![CDATA[윈도우 서버에서 리눅스 서버로의 감상 - 태그: 서버, 윈도우, 리눅스]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-11-15-windows_server_to_linux_server</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-11-15-windows_server_to_linux_server</guid>
+            <pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CentOS 7 세팅기]]></title>
+            <description><![CDATA[CentOS 7 세팅기 - 태그: 서버, 리눅스, CentOS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-11-07-cent_os_7_setting</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-11-07-cent_os_7_setting</guid>
+            <pubDate>Sat, 07 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유니티3D 개발에 대한 단상]]></title>
+            <description><![CDATA[유니티3D 개발에 대한 단상 - 태그: 클라이언트, 유니티3D, 게임 개발, Unity3D]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-08-25-consider_unity3d_development</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-08-25-consider_unity3d_development</guid>
+            <pubDate>Tue, 25 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[코딩 컨벤션]]></title>
+            <description><![CDATA[코딩 컨벤션 - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-01-31-coding_convention</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-01-31-coding_convention</guid>
+            <pubDate>Sat, 31 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[상향식 코드 분석과 하향식 코드 분석]]></title>
+            <description><![CDATA[상향식 코드 분석과 하향식 코드 분석 - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-01-31-code_reading_bottom_up_and_top_down</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-01-31-code_reading_bottom_up_and_top_down</guid>
+            <pubDate>Sat, 31 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[버그 노트]]></title>
+            <description><![CDATA[버그 노트 - 태그: 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-01-31-bug_note</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-01-31-bug_note</guid>
+            <pubDate>Sat, 31 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[레거시 코드 활용 전략]]></title>
+            <description><![CDATA[레거시 코드 활용 전략 - 태그: 서평]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-01-28-working_effectively_with_legacy_code</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-01-28-working_effectively_with_legacy_code</guid>
+            <pubDate>Wed, 28 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[로직의 네트워크 동기화 처리]]></title>
+            <description><![CDATA[로직의 네트워크 동기화 처리 - 태그: 동기화, 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2015/2015-01-28-network_sync_logic</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2015/2015-01-28-network_sync_logic</guid>
+            <pubDate>Wed, 28 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thread design 01 - 우리는 이미 알고 있었다]]></title>
+            <description><![CDATA[Thread design 01 - 우리는 이미 알고 있었다 - 태그: Async, 병렬프로그래밍, 멀티스레드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-12-09-thread_design_01</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-12-09-thread_design_01</guid>
+            <pubDate>Mon, 29 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[웹 로그 서버 구축기 with rails V2]]></title>
+            <description><![CDATA[웹 로그 서버 구축기 with rails V2 - 태그: Ruby, Rails]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-12-16-web_log_on_rails_v2</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-12-16-web_log_on_rails_v2</guid>
+            <pubDate>Tue, 16 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[non-blocking multithread programming]]></title>
+            <description><![CDATA[non-blocking multithread programming - 태그: Async, 병렬프로그래밍, 멀티스레드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-12-09-non_blocking_multithread</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-12-09-non_blocking_multithread</guid>
+            <pubDate>Tue, 09 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유닛 테스트의 진짜 효과와 역할]]></title>
+            <description><![CDATA[유닛 테스트의 진짜 효과와 역할 - 태그: 유닛 테스트]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-12-09-effect_unittest</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-12-09-effect_unittest</guid>
+            <pubDate>Tue, 09 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruby on rails 소개]]></title>
+            <description><![CDATA[Ruby on rails 소개 - 태그: Rails]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-12-02-introduce_rails</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-12-02-introduce_rails</guid>
+            <pubDate>Tue, 02 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Ruby!]]></title>
+            <description><![CDATA[Welcome to Ruby! - 태그: Ruby, 루비]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-11-04-welcome_to_ruby</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-11-04-welcome_to_ruby</guid>
+            <pubDate>Tue, 04 Nov 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TDD에게서 자유로워 지자]]></title>
+            <description><![CDATA[TDD에게서 자유로워 지자 - 태그: 유닛 테스트, TDD]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-11-04-freed_from_tdd</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-11-04-freed_from_tdd</guid>
+            <pubDate>Tue, 04 Nov 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruby on rails 세팅 for Windows]]></title>
+            <description><![CDATA[Ruby on rails 세팅 for Windows - 태그: Rails]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-10-29-rails_setting_for_windows</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-10-29-rails_setting_for_windows</guid>
+            <pubDate>Wed, 29 Oct 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[코드 작성과 디버깅을 쉽게하는 예외 처리]]></title>
+            <description><![CDATA[코드 작성과 디버깅을 쉽게하는 예외 처리 - 태그: C++, 예외처리, 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-08-14-better_than_exception_handling</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-08-14-better_than_exception_handling</guid>
+            <pubDate>Thu, 14 Aug 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reactor 패턴과 Proactor 패턴]]></title>
+            <description><![CDATA[Reactor 패턴과 Proactor 패턴 - 태그: Reactor, Proactor, Async, 비동기, 디자인 패턴]]></description>
+            <link>https://elky84.github.io/blog#/posts/2014/2014-08-05-Reactor_and_proactor</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2014/2014-08-05-Reactor_and_proactor</guid>
+            <pubDate>Tue, 05 Aug 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 구조체 이니셜라이저 문제]]></title>
+            <description><![CDATA[C++ 구조체 이니셜라이저 문제 - 태그: C++]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-06-14-struct_initialize_problem_in_cpp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-06-14-struct_initialize_problem_in_cpp</guid>
+            <pubDate>Fri, 14 Jun 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[좋은 코딩 나쁜 코딩 - 읽기 쉬운 코드가 좋은 코드다]]></title>
+            <description><![CDATA[좋은 코딩 나쁜 코딩 - 읽기 쉬운 코드가 좋은 코드다 - 태그: 서평]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-06-09-the_art_of_readable_code</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-06-09-the_art_of_readable_code</guid>
+            <pubDate>Sun, 09 Jun 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Active Record Query Interface]]></title>
+            <description><![CDATA[Active Record Query Interface - 태그: Ruby, Rails]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-05-28-active_record_query_interface_in_rails</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-05-28-active_record_query_interface_in_rails</guid>
+            <pubDate>Tue, 28 May 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[명령행 프로그램 이야기]]></title>
+            <description><![CDATA[명령행 프로그램 이야기 - 태그: CommandLine Interface, CLI, 명령행]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-05-28-Commandline_interface</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-05-28-Commandline_interface</guid>
+            <pubDate>Tue, 28 May 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruby 변수 관련 정리]]></title>
+            <description><![CDATA[Ruby 변수 관련 정리 - 태그: Ruby, 루비]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-05-14-variable_in_ruby</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-05-14-variable_in_ruby</guid>
+            <pubDate>Tue, 14 May 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruby가 모듈을 찾는 장소.]]></title>
+            <description><![CDATA[Ruby가 모듈을 찾는 장소. - 태그: Ruby, 루비]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-05-09-module_find_in_ruby</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-05-09-module_find_in_ruby</guid>
+            <pubDate>Thu, 09 May 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[조엘이 엄선한 소프트웨어 블로그 베스트 29선]]></title>
+            <description><![CDATA[조엘이 엄선한 소프트웨어 블로그 베스트 29선 - 태그: 서평, 조엘]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-05-07-joel_picks_blog_best_29</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-05-07-joel_picks_blog_best_29</guid>
+            <pubDate>Tue, 07 May 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Joen on Software - 조엘은 역시나 탁월했다.]]></title>
+            <description><![CDATA[More Joen on Software - 조엘은 역시나 탁월했다. - 태그: 서평, 조엘]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-05-06_more_joel_on_software</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-05-06_more_joel_on_software</guid>
+            <pubDate>Mon, 06 May 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NDC2013 요약 정리]]></title>
+            <description><![CDATA[NDC2013 요약 정리 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-04-25-ndc_2013</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-04-25-ndc_2013</guid>
+            <pubDate>Thu, 25 Apr 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[데이터베이스 마이그레이션 with rails]]></title>
+            <description><![CDATA[데이터베이스 마이그레이션 with rails - 태그: Ruby, Rails]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-04-15-database_migration_in_rails</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-04-15-database_migration_in_rails</guid>
+            <pubDate>Mon, 15 Apr 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[웹 로그 서버 구축기 with rails]]></title>
+            <description><![CDATA[웹 로그 서버 구축기 with rails - 태그: Ruby, Rails]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-04-12-web_log_on_rails</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-04-12-web_log_on_rails</guid>
+            <pubDate>Fri, 12 Apr 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 멀티 스레드 프로그래밍을 몇년간 해온 후 느낀 고찰]]></title>
+            <description><![CDATA[C++ 멀티 스레드 프로그래밍을 몇년간 해온 후 느낀 고찰 - 태그: Async, 멀티스레드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-04-09-consideration_multithread_in_cpp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-04-09-consideration_multithread_in_cpp</guid>
+            <pubDate>Tue, 09 Apr 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 11 주요 Feature 정리]]></title>
+            <description><![CDATA[C++ 11 주요 Feature 정리 - 태그: C++, C++11]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-04-05-cpp11_major_features</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-04-05-cpp11_major_features</guid>
+            <pubDate>Fri, 05 Apr 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[루비 사용기]]></title>
+            <description><![CDATA[루비 사용기 - 태그: Ruby, 루비]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-03-01-review_in_ruby</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-03-01-review_in_ruby</guid>
+            <pubDate>Fri, 01 Mar 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[인공지능에 대한 간략 정리]]></title>
+            <description><![CDATA[인공지능에 대한 간략 정리 - 태그: AI, 인공지능]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-01-26-summary_ai</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-01-26-summary_ai</guid>
+            <pubDate>Sat, 26 Jan 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[서버 최적화 핵심 요약]]></title>
+            <description><![CDATA[서버 최적화 핵심 요약 - 태그: 서버, 최적화]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-01-26-server_optimize</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-01-26-server_optimize</guid>
+            <pubDate>Sat, 26 Jan 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[디아블로2 렐름 다운 정책 정리]]></title>
+            <description><![CDATA[디아블로2 렐름 다운 정책 정리 - 태그: 서버, 부하 방지]]></description>
+            <link>https://elky84.github.io/blog#/posts/2013/2013-01-26-realm_down_in_diablo2</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2013/2013-01-26-realm_down_in_diablo2</guid>
+            <pubDate>Sat, 26 Jan 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KGC2012 - 뛰어난 디버거가 되는 방법]]></title>
+            <description><![CDATA[KGC2012 - 뛰어난 디버거가 되는 방법 - 태그: 주절주절, 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2012/2012-10-10-to_good_debugger</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2012/2012-10-10-to_good_debugger</guid>
+            <pubDate>Wed, 10 Oct 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[단점 고치기]]></title>
+            <description><![CDATA[단점 고치기 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2012/2012-09-06-Better_than_me</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2012/2012-09-06-Better_than_me</guid>
+            <pubDate>Thu, 06 Sep 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[사고뭉치를 위한 디버깅 방법 03]]></title>
+            <description><![CDATA[사고뭉치를 위한 디버깅 방법 03 - 태그: 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2012/2012-05-21-debugging_03</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2012/2012-05-21-debugging_03</guid>
+            <pubDate>Mon, 21 May 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[사고뭉치를 위한 디버깅 방법 02]]></title>
+            <description><![CDATA[사고뭉치를 위한 디버깅 방법 02 - 태그: 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2012/2012-05-09-debugging_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2012/2012-05-09-debugging_02</guid>
+            <pubDate>Wed, 09 May 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[사고뭉치를 위한 디버깅 방법 01]]></title>
+            <description><![CDATA[사고뭉치를 위한 디버깅 방법 01 - 태그: 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2012/2012-02-06-debugging_01</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2012/2012-02-06-debugging_01</guid>
+            <pubDate>Mon, 06 Feb 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[애플 신드롬과 MS에 대한 사설]]></title>
+            <description><![CDATA[애플 신드롬과 MS에 대한 사설 - 태그: 주절주절, 애플, MS]]></description>
+            <link>https://elky84.github.io/blog#/posts/2011/2011-09-09-column_MS_and_Apple</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2011/2011-09-09-column_MS_and_Apple</guid>
+            <pubDate>Fri, 09 Sep 2011 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[윈도우 환경에서의 C++ 프로그램 예외처리]]></title>
+            <description><![CDATA[윈도우 환경에서의 C++ 프로그램 예외처리 - 태그: C++, 예외처리, 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2011/2011-08-24-exception_handling_in_cpp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2011/2011-08-24-exception_handling_in_cpp</guid>
+            <pubDate>Wed, 24 Aug 2011 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[프로그래밍 개발시 좋은 습관]]></title>
+            <description><![CDATA[프로그래밍 개발시 좋은 습관 - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-08-20-attention_programming_theory</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-08-20-attention_programming_theory</guid>
+            <pubDate>Fri, 20 Aug 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[거짓 공유 (false sharing)]]></title>
+            <description><![CDATA[거짓 공유 (false sharing) - 태그: 시스템 프로그래밍, 병렬 프로그래밍, 비동기]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-08-19-false_sharing</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-08-19-false_sharing</guid>
+            <pubDate>Thu, 19 Aug 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[데이터베이스 이용시 주의 사항]]></title>
+            <description><![CDATA[데이터베이스 이용시 주의 사항 - 태그: 서버, 데이터베이스]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-08-13-attention_using_database</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-08-13-attention_using_database</guid>
+            <pubDate>Fri, 13 Aug 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[스티브 잡스의 수퍼 업무력 - 애플의 그리고 잡스의 성공 비결]]></title>
+            <description><![CDATA[스티브 잡스의 수퍼 업무력 - 애플의 그리고 잡스의 성공 비결 - 태그: 리더쉽, 업무 문화, 업무 방식]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-06-04-think_different_steve_jobs</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-06-04-think_different_steve_jobs</guid>
+            <pubDate>Fri, 04 Jun 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[라프코스터의 재미 이론 - 게임과 재미에 대한 예리한 고찰]]></title>
+            <description><![CDATA[라프코스터의 재미 이론 - 게임과 재미에 대한 예리한 고찰 - 태그: 게임 개발, 재미, 게임 기획, 기획]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-06-03_theoy_enjoy</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-06-03_theoy_enjoy</guid>
+            <pubDate>Thu, 03 Jun 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[누워서 읽는 퍼즐북 - 퍼즐의 쾌감]]></title>
+            <description><![CDATA[누워서 읽는 퍼즐북 - 퍼즐의 쾌감 - 태그: 퍼즐, 임백준]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-05-31-puzzle_book</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-05-31-puzzle_book</guid>
+            <pubDate>Mon, 31 May 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 오류 발생시 원인 정리]]></title>
+            <description><![CDATA[C++ 오류 발생시 원인 정리 - 태그: C++, 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-07-15-case_by_exception_in_cpp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-07-15-case_by_exception_in_cpp</guid>
+            <pubDate>Tue, 16 Mar 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[멀티스레드 정책]]></title>
+            <description><![CDATA[멀티스레드 정책 - 태그: 병렬프로그래밍, 멀티스레드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-03-16-policy_multithread</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-03-16-policy_multithread</guid>
+            <pubDate>Tue, 16 Mar 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[멀티스레드 프로그래밍시 유의점]]></title>
+            <description><![CDATA[멀티스레드 프로그래밍시 유의점 - 태그: 병렬프로그래밍, Async, 멀티스레드, 비동기]]></description>
+            <link>https://elky84.github.io/blog#/posts/2010/2010-02-23-attention_multithread</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2010/2010-02-23-attention_multithread</guid>
+            <pubDate>Tue, 23 Feb 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 코딩의 정석 - C++ 프로그래머 필독서의 목록에 올라야 할 책]]></title>
+            <description><![CDATA[C++ 코딩의 정석 - C++ 프로그래머 필독서의 목록에 올라야 할 책 - 태그: C++]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-12-20-best_way_coding_in_cpp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-12-20-best_way_coding_in_cpp</guid>
+            <pubDate>Sun, 20 Dec 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UDP Hole Punching]]></title>
+            <description><![CDATA[UDP Hole Punching - 태그: Network, UDP, HolePunching, STUN]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-11-16-udp_hole_punching</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-11-16-udp_hole_punching</guid>
+            <pubDate>Mon, 16 Nov 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reliable UDP]]></title>
+            <description><![CDATA[Reliable UDP - 태그: Network, UDP]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-11-06-reliable_udp</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-11-06-reliable_udp</guid>
+            <pubDate>Fri, 06 Nov 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[포인터와 참조자 이야기]]></title>
+            <description><![CDATA[포인터와 참조자 이야기 - 태그: C++]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-19-reference_and_pointer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-19-reference_and_pointer</guid>
+            <pubDate>Sun, 29 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MS-SQL 복원]]></title>
+            <description><![CDATA[MS-SQL 복원 - 태그: RDB, Database, 데이터베이스, MS-SQL, SQL Server]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_restore</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_restore</guid>
+            <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MS-SQL 조인 내부 처리 방식 정리]]></title>
+            <description><![CDATA[MS-SQL 조인 내부 처리 방식 정리 - 태그: RDB, Database, 데이터베이스, MS-SQL, SQL Server]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_join</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_join</guid>
+            <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MS-SQL 데이터 저장 방식]]></title>
+            <description><![CDATA[MS-SQL 데이터 저장 방식 - 태그: RDB, Database, 데이터베이스, MS-SQL, SQL Server]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_data_store_ways</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_data_store_ways</guid>
+            <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MS-SQL 백업]]></title>
+            <description><![CDATA[MS-SQL 백업 - 태그: RDB, Database, 데이터베이스, MS-SQL, SQL Server]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_backup</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-26-ms_sql_backup</guid>
+            <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[인덱스가 있지만 인덱스를 안 타는 경우]]></title>
+            <description><![CDATA[인덱스가 있지만 인덱스를 안 타는 경우 - 태그: RDB, Database, 데이터베이스, MS-SQL, SQL Server]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-26-db_not_use_index</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-26-db_not_use_index</guid>
+            <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DB 인덱스 정리]]></title>
+            <description><![CDATA[DB 인덱스 정리 - 태그: RDB, Database, 데이터베이스, MS-SQL, SQL Server]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-03-26-db_index</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-03-26-db_index</guid>
+            <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[잡스처럼 일한다는 것 - 뛰어난 리더가 뛰어난 기업, 뛰어난 제품을 만든다.]]></title>
+            <description><![CDATA[잡스처럼 일한다는 것 - 뛰어난 리더가 뛰어난 기업, 뛰어난 제품을 만든다. - 태그: 리더쉽]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-02-09-work_like_jobs</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-02-09-work_like_jobs</guid>
+            <pubDate>Mon, 09 Feb 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[문제해결 노트]]></title>
+            <description><![CDATA[문제해결 노트 - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-02-03-solving_problem_note</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-02-03-solving_problem_note</guid>
+            <pubDate>Tue, 03 Feb 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[게임 프로그래머를 위한 수학과 물리]]></title>
+            <description><![CDATA[게임 프로그래머를 위한 수학과 물리 - 태그: 수학, 물리, 게임 개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2009/2009-01-21-physics_and_math_for_game_programmer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2009/2009-01-21-physics_and_math_for_game_programmer</guid>
+            <pubDate>Wed, 21 Jan 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[초심으로 돌아가기]]></title>
+            <description><![CDATA[초심으로 돌아가기 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-09-23-Return_to_begin</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-09-23-Return_to_begin</guid>
+            <pubDate>Tue, 23 Sep 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[프로그래밍은 상상이다 - 자극스러운 내용이지만, 자극적이지 않게 다가오다.]]></title>
+            <description><![CDATA[프로그래밍은 상상이다 - 자극스러운 내용이지만, 자극적이지 않게 다가오다. - 태그: 임백준]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-09-17-programming_is_imagination</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-09-17-programming_is_imagination</guid>
+            <pubDate>Wed, 17 Sep 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[좋은 프로그래머란 무엇일까?]]></title>
+            <description><![CDATA[좋은 프로그래머란 무엇일까? - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-09-07-Good_programmer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-09-07-Good_programmer</guid>
+            <pubDate>Sun, 07 Sep 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[단점 고치기]]></title>
+            <description><![CDATA[단점 고치기 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-09-06-fix_my_bad_thing</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-09-06-fix_my_bad_thing</guid>
+            <pubDate>Sat, 06 Sep 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[루비를 시작했습니다.]]></title>
+            <description><![CDATA[루비를 시작했습니다. - 태그: Ruby, 루비]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-08-04-started_ruby</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-08-04-started_ruby</guid>
+            <pubDate>Mon, 04 Aug 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 코드 작성시 주의 사항]]></title>
+            <description><![CDATA[C++ 코드 작성시 주의 사항 - 태그: C++, 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-08-04-code_write</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-08-04-code_write</guid>
+            <pubDate>Mon, 04 Aug 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OS 구조와 원리 - 단연 최고의 OS 개발 서적]]></title>
+            <description><![CDATA[OS 구조와 원리 - 단연 최고의 OS 개발 서적 - 태그: OS, 운영체제]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-08-03-os_structure_and_principle</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-08-03-os_structure_and_principle</guid>
+            <pubDate>Sun, 03 Aug 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[메모의 기술 - 더 많이 기억하기 위해 기록하라. 그리고 잊어라.]]></title>
+            <description><![CDATA[메모의 기술 - 더 많이 기억하기 위해 기록하라. 그리고 잊어라. - 태그: 기록]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-07-27-technic_of_memo</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-07-27-technic_of_memo</guid>
+            <pubDate>Sun, 27 Jul 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Software Development MEME]]></title>
+            <description><![CDATA[Software Development MEME - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-07-14-Software_MEME</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-07-14-Software_MEME</guid>
+            <pubDate>Mon, 14 Jul 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[사랑하지 않으면 떠나라 - 좀 더 나은 내가 되기 위한 가이드 라인.]]></title>
+            <description><![CDATA[사랑하지 않으면 떠나라 - 좀 더 나은 내가 되기 위한 가이드 라인. - 태그: 자기관리]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-07-13-if_no_love_leave</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-07-13-if_no_love_leave</guid>
+            <pubDate>Sun, 13 Jul 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 - 왜 같은 실수를 반복하는가?]]></title>
+            <description><![CDATA[우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 - 왜 같은 실수를 반복하는가? - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-07-13-facts_and_fallacies_of_software_engineering</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-07-13-facts_and_fallacies_of_software_engineering</guid>
+            <pubDate>Sun, 13 Jul 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Effective TCP/IP Programming]]></title>
+            <description><![CDATA[Effective TCP/IP Programming - 태그: 네트워크, TCP/IP]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-06-30-effective_tcp_ip_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-06-30-effective_tcp_ip_programming</guid>
+            <pubDate>Mon, 30 Jun 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[서버 테스트 방법 들]]></title>
+            <description><![CDATA[서버 테스트 방법 들 - 태그: 서버, 테스트]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-04-25-server_test_ways</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-04-25-server_test_ways</guid>
+            <pubDate>Fri, 25 Apr 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[둠. 컴퓨터 게임의 성공신화. 존 카맥, 존 로메로 - 천재 프로그래머 이야기]]></title>
+            <description><![CDATA[둠. 컴퓨터 게임의 성공신화. 존 카맥, 존 로메로 - 천재 프로그래머 이야기 - 태그: 둠, 게임 개발자, 존 카맥, 존 로메로]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-04-16-master_of_doom</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-04-16-master_of_doom</guid>
+            <pubDate>Wed, 16 Apr 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[아키텍트 이야기 - 프로젝트의 성공을 위한 지휘자, 아키텍트가 되자.]]></title>
+            <description><![CDATA[아키텍트 이야기 - 프로젝트의 성공을 위한 지휘자, 아키텍트가 되자. - 태그: 아키텍트, 설계]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-02-29-architect_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-02-29-architect_story</guid>
+            <pubDate>Fri, 29 Feb 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[익스트림 프로그래밍 - 소프트웨어 개발도 결국 사람에 달려있다.]]></title>
+            <description><![CDATA[익스트림 프로그래밍 - 소프트웨어 개발도 결국 사람에 달려있다. - 태그: 애자일, 익스트림 프로그래밍]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-02-24-extream_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-02-24-extream_programming</guid>
+            <pubDate>Sun, 24 Feb 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나의 게임 업계 투신기]]></title>
+            <description><![CDATA[나의 게임 업계 투신기 - 태그: 주절주절]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-02-14-Started_game_develop</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-02-14-Started_game_develop</guid>
+            <pubDate>Thu, 14 Feb 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[코드 읽기]]></title>
+            <description><![CDATA[코드 읽기 - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-02-13-code_reading</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-02-13-code_reading</guid>
+            <pubDate>Wed, 13 Feb 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[린 소프트웨어 개발 - 개발 효율 향상을 위한 애자일 지침서]]></title>
+            <description><![CDATA[린 소프트웨어 개발 - 개발 효율 향상을 위한 애자일 지침서 - 태그: 소프트웨어 공학, 애자일, 방법론]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-17-lean_software_development</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-17-lean_software_development</guid>
+            <pubDate>Thu, 17 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[대체 뭐가 문제야?]]></title>
+            <description><![CDATA[대체 뭐가 문제야? - 태그: 문제해결]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-16-are_u_light_on</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-16-are_u_light_on</guid>
+            <pubDate>Wed, 16 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C++ 오류의 원인들]]></title>
+            <description><![CDATA[C++ 오류의 원인들 - 태그: C++, 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-14-reason_for_error</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-14-reason_for_error</guid>
+            <pubDate>Mon, 14 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[패치의 악몽을 피하기 위해]]></title>
+            <description><![CDATA[패치의 악몽을 피하기 위해 - 태그: 소프트웨어 공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-14-for_reduce_patch_error</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-14-for_reduce_patch_error</guid>
+            <pubDate>Mon, 14 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[서버 프로그래밍시 주의 사항]]></title>
+            <description><![CDATA[서버 프로그래밍시 주의 사항 - 태그: 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-14-attention_server_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-14-attention_server_programming</guid>
+            <pubDate>Mon, 14 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[클라이언트 요청 처리에 대한 주의 사항]]></title>
+            <description><![CDATA[클라이언트 요청 처리에 대한 주의 사항 - 태그: 서버]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-14-Dont_believe_client</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-14-Dont_believe_client</guid>
+            <pubDate>Mon, 14 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[테스트 주도 개발]]></title>
+            <description><![CDATA[테스트 주도 개발 - 태그: TDD, 유닛 테스트, 테스트 주도 개발]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-12-tdd</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-12-tdd</guid>
+            <pubDate>Sat, 12 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[함수의 리턴 값의 주소를 사용하려 할 때 생기는 문제]]></title>
+            <description><![CDATA[함수의 리턴 값의 주소를 사용하려 할 때 생기는 문제 - 태그: C++]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-11-function_return_address</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-11-function_return_address</guid>
+            <pubDate>Fri, 11 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[코딩시 유념할 점 들]]></title>
+            <description><![CDATA[코딩시 유념할 점 들 - 태그: 주절주절, 소프트웨어공학]]></description>
+            <link>https://elky84.github.io/blog#/posts/2008/2008-01-10-Programming_mind</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2008/2008-01-10-Programming_mind</guid>
+            <pubDate>Thu, 10 Jan 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[레이몬드 첸의 윈도우 개발 282 스토리 - 윈도우의 현재를 말해주는 비하인드 스토리]]></title>
+            <description><![CDATA[레이몬드 첸의 윈도우 개발 282 스토리 - 윈도우의 현재를 말해주는 비하인드 스토리 - 태그: 윈도우]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-12-10-windows_dev_282_story</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-12-10-windows_dev_282_story</guid>
+            <pubDate>Mon, 10 Dec 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Art of Unix Programming - 프로그래머가 가져야 할 마음 가짐을 알려주는 좋은 책]]></title>
+            <description><![CDATA[Art of Unix Programming - 프로그래머가 가져야 할 마음 가짐을 알려주는 좋은 책 - 태그: 유닉스]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-11-30-art_of_unix_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-11-30-art_of_unix_programming</guid>
+            <pubDate>Fri, 30 Nov 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[패턴 그리고 객체지향적 코딩의 법칙 - 그들의 경험을 쉽게 이해하는 한가지 방법]]></title>
+            <description><![CDATA[패턴 그리고 객체지향적 코딩의 법칙 - 그들의 경험을 쉽게 이해하는 한가지 방법 - 태그: 디자인 패턴, OOP, 객체지향]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-11-19-pattern_and_oop_coding</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-11-19-pattern_and_oop_coding</guid>
+            <pubDate>Mon, 19 Nov 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[네트워크를 훔쳐라 - 그들의 심리를 파악하자]]></title>
+            <description><![CDATA[네트워크를 훔쳐라 - 그들의 심리를 파악하자 - 태그: 해킹]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-09-25-stealing_the_network</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-09-25-stealing_the_network</guid>
+            <pubDate>Tue, 25 Sep 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[프로그램은 왜 실패하는가? - 체계적인 디버깅 지침서]]></title>
+            <description><![CDATA[프로그램은 왜 실패하는가? - 체계적인 디버깅 지침서 - 태그: 디버깅]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-09-17-why_programs_fail</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-09-17-why_programs_fail</guid>
+            <pubDate>Mon, 17 Sep 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[리팩토링 - 실용적이고, 현실적이며 실천적이었다.]]></title>
+            <description><![CDATA[리팩토링 - 실용적이고, 현실적이며 실천적이었다. - 태그: 리팩토링]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-09-17-refactoring</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-09-17-refactoring</guid>
+            <pubDate>Mon, 17 Sep 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[생각하는 프로그래밍 - 효율에 관한 재밌는 이야기들]]></title>
+            <description><![CDATA[생각하는 프로그래밍 - 효율에 관한 재밌는 이야기들 - 태그: 알고리즘]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-09-17-programming_pearls</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-09-17-programming_pearls</guid>
+            <pubDate>Mon, 17 Sep 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[실용주의 프로그래머 - 실용주의 마인드]]></title>
+            <description><![CDATA[실용주의 프로그래머 - 실용주의 마인드 - 태그: 실용주의 프로그래머]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-09-17-pragmatic_programmer</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-09-17-pragmatic_programmer</guid>
+            <pubDate>Mon, 17 Sep 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕의 프로그래머 - 실수를 두려워하지 말지어다]]></title>
+            <description><![CDATA[뉴욕의 프로그래머 - 실수를 두려워하지 말지어다 - 태그: 임백준]]></description>
+            <link>https://elky84.github.io/blog#/posts/2007/2007-09-10-programmer_in_newyork</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2007/2007-09-10-programmer_in_newyork</guid>
+            <pubDate>Mon, 10 Sep 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[해커와 화가]]></title>
+            <description><![CDATA[해커와 화가 - 태그: 임백준, 폴 그레이엄]]></description>
+            <link>https://elky84.github.io/blog#/posts/2006/2006-04-22-hacker_and_painters</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2006/2006-04-22-hacker_and_painters</guid>
+            <pubDate>Sat, 22 Apr 2006 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API로 배우는 윈도우즈 구조와 원리]]></title>
+            <description><![CDATA[API로 배우는 윈도우즈 구조와 원리 - 태그: OS, 운영체제, 윈도우즈]]></description>
+            <link>https://elky84.github.io/blog#/posts/2005/2005-12-18-windows_structure_and_principle_with_api</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2005/2005-12-18-windows_structure_and_principle_with_api</guid>
+            <pubDate>Sun, 18 Dec 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어 산책 - 역시나 흥미로웠던 그의 산책]]></title>
+            <description><![CDATA[소프트웨어 산책 - 역시나 흥미로웠던 그의 산책 - 태그: 임백준]]></description>
+            <link>https://elky84.github.io/blog#/posts/2005/2005-12-18-software_walk</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2005/2005-12-18-software_walk</guid>
+            <pubDate>Sun, 18 Dec 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[누워서 읽는 알고리즘]]></title>
+            <description><![CDATA[누워서 읽는 알고리즘 - 태그: 임백준, 알고리즘]]></description>
+            <link>https://elky84.github.io/blog#/posts/2005/2005-12-18-lie_read_algorithm</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2005/2005-12-18-lie_read_algorithm</guid>
+            <pubDate>Sun, 18 Dec 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[행복한 프로그래밍 - 당신은 프로그래밍으로 인해 행복한가요?]]></title>
+            <description><![CDATA[행복한 프로그래밍 - 당신은 프로그래밍으로 인해 행복한가요? - 태그: 임백준]]></description>
+            <link>https://elky84.github.io/blog#/posts/2005/2005-12-18-happiness_programming</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2005/2005-12-18-happiness_programming</guid>
+            <pubDate>Sun, 18 Dec 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[해킹 파괴의 광학 - 프로그래밍 기본 소양 서적에 가까운 책]]></title>
+            <description><![CDATA[해킹 파괴의 광학 - 프로그래밍 기본 소양 서적에 가까운 책 - 태그: 해킹 파괴의 광학, 해킹]]></description>
+            <link>https://elky84.github.io/blog#/posts/2005/2005-12-18-hacking_art_of_explosion</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2005/2005-12-18-hacking_art_of_explosion</guid>
+            <pubDate>Sun, 18 Dec 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[조엘 온 소프트웨어 - 조엘은 알고 있었다]]></title>
+            <description><![CDATA[조엘 온 소프트웨어 - 조엘은 알고 있었다 - 태그: 조엘, 조엘 온 소프트웨어]]></description>
+            <link>https://elky84.github.io/blog#/posts/2005/2005-09-20-joel_on_software</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2005/2005-09-20-joel_on_software</guid>
+            <pubDate>Tue, 20 Sep 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 08 프로세스와 스레드]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 08 프로세스와 스레드 - 태그: 프로세스, 스레드]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_08</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_08</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 07 어셈블리]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 07 어셈블리 - 태그: 어셈블리]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_07</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_07</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 06 자료 구조]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 06 자료 구조 - 태그: 자료 구조]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_06</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_06</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 05 메모리와 포인터]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 05 메모리와 포인터 - 태그: 메모리, 포인터]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_05</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_05</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 04 프로그램 언어]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 04 프로그램 언어 - 태그: 문법]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_04</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_04</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 03 운영 체제와 컴퓨터 원리]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 03 운영 체제와 컴퓨터 원리 - 태그: C언어, 컴퓨터 과학 기초]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_03</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_03</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 02 비트의 법칙]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 02 비트의 법칙 - 태그: C언어, 컴퓨터 과학 기초]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_02</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_02</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C프로그래머가 알아야 할 것들 - 01 진법]]></title>
+            <description><![CDATA[C프로그래머가 알아야 할 것들 - 01 진법 - 태그: C언어, 컴퓨터 과학 기초]]></description>
+            <link>https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_01</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2002/2002-01-10-need_know_c_programmer_01</guid>
+            <pubDate>Thu, 10 Jan 2002 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
