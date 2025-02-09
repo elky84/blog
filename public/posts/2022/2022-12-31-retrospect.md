@@ -34,7 +34,7 @@ comments: true
 
 ### 올 한해 github 활동
 
-![github](/img/2022/2022_github.png)
+![github](../..../../blog/img/2022/2022_github.png)
 
 4~5월만 비어있고 나름 짬짬이 이것저것 만든 것 같다.
 저 시기가 업무적으로 피치를 올렸을 시기라 github에 올라갈 작업은 하지 않은 것 같다.
@@ -42,7 +42,7 @@ comments: true
 
 ### nuget 패키지 누적 다운로드
 
-![github](/img/2022/2022_nuget.png)
+![github](../..../../blog/img/2022/2022_nuget.png)
 
 11개 패키지 35000 다운로드다.
 
@@ -212,32 +212,32 @@ GOG로 각종 인디 게임을, 플스나 엑박으로는 페르소나 5 로얄,
 
 회사에서 제휴 구매로 허먼 밀러를 살까 했지만, 너무 비싸서 고민하다가 시간이 간 감도 있는데 아래 제품 나는 만족한다. 아쉬웠던 의자 이슈를 한번에 해결 해줌! (PPL 아님)
 
-![github](/img/2022/g1_air.png)
+![github](../..../../blog/img/2022/g1_air.png)
 
 ### 강아지
 
 초코가 자잘하게 계속 아프다
 
-![github](/img/2022/choco1.jpg)
+![github](../..../../blog/img/2022/choco1.jpg)
 
 파이는 건강한데…
 
-![github](/img/2022/pie1.jpg)
-![github](/img/2022/pie2.jpg)
+![github](../..../../blog/img/2022/pie1.jpg)
+![github](../..../../blog/img/2022/pie2.jpg)
 
 그나마 체중 조절좀 하고 병원 자주 다녔더니 나아지긴 했는데, 슬개골도, 음식 잘 못 먹는 사고도, 전부다 초코였다.
 
-![github](/img/2022/choco2.jpg)
+![github](../..../../blog/img/2022/choco2.jpg)
 
 그만큼 더 신경을 써주고 있긴하지만, 나이가 들고있다보니 불안한 것은 어쩔 수 없는 거 같다.
 
-![github](/img/2022/choco3.jpg)
+![github](../..../../blog/img/2022/choco3.jpg)
 
 반면 파이는 건강 그 자체…! 작고 조그만해서 걱정을 많이 했는데 파이는 정말 건강 검진 결과마저 퍼펙트하다. 아직 젊어서겠지만… 비슷한 나이의 초코보다 건강한 것은 둘 중 하나라도 별 탈 없이 건강해서 다행이다.
 
-![github](/img/2022/chocopie1.jpg)
+![github](../..../../blog/img/2022/chocopie1.jpg)
 
-![github](/img/2022/chocopie2.jpg)
+![github](../..../../blog/img/2022/chocopie2.jpg)
 
 ### 여가 생활
 

@@ -51,13 +51,13 @@ C++의 실험적 후계자라는 이름으로 어필하고 있다.
 * 기존 C++ 코드와의 상호 운용성 및 마이그레이션
 
 ### C++ 언어와 Carbon 언어의 비교
-![c++ snippet](/img/2022/cpp_snippet.svg)
+![c++ snippet](../..../../blog/img/2022/cpp_snippet.svg)
 위 코드를 카본으로 옮기면 다음과 같습니다
 
-![Carbon snippet](/img/2022/carbon_snippet.svg)
+![Carbon snippet](../..../../blog/img/2022/carbon_snippet.svg)
 
 아래 코드처럼 혼용해서 사용 가능합니다
-![Mixed snippet](/img/2022/mixed_snippet.svg)
+![Mixed snippet](../..../../blog/img/2022/mixed_snippet.svg)
 
 ### 소감
 
