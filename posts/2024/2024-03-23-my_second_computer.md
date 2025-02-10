@@ -29,7 +29,7 @@ comments: true
 
 [[Angel진][갓 추억의 고전게임/버추어캅2][1~4클리어 영상] (youtube.com)](https://www.youtube.com/watch?v=I3ryXGNyTUE)
 
-{% include youtube.html id="I3ryXGNyTUE" %}
+https://www.youtube.com/watch?v=I3ryXGNyTUE
 
 건 컨트롤러는 없었지만, 마우스로도 꽤 재밌던 건 슈팅 게임이다.
 
@@ -42,7 +42,7 @@ comments: true
 ## 데이토나 USA
 [Daytona USA (SEGA-AM2) (Windows) [1996] [PC Longplay] (youtube.com)](https://www.youtube.com/watch?v=TNdGfrnQLVA)
 
-{% include youtube.html id="TNdGfrnQLVA" %}
+https://www.youtube.com/watch?v=TNdGfrnQLVA
 
 이 게임 역시 오락실에서나 접할 수 있던 게임이었는데, 아주 쾌적하게 이식됐었다.
 
@@ -52,7 +52,7 @@ comments: true
 
 [Duke Nukem 3D - Mission 1 Gameplay (youtube.com)](https://www.youtube.com/watch?v=nP34zCaRHHE)
 
-{% include youtube.html id="nP34zCaRHHE" %}
+https://www.youtube.com/watch?v=nP34zCaRHHE
 
 DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이다.
 
@@ -62,7 +62,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [지금까지도 최고의 시리즈 중 하나로 꼽히는 삼국지5에 대해 알아보자 (youtube.com)](https://www.youtube.com/watch?v=fMM_Ud91tn0)
 
-{% include youtube.html id="fMM_Ud91tn0" %}
+https://www.youtube.com/watch?v=fMM_Ud91tn0
 
 
 삼국지4에 이어서 삼국지 5 역시 친구들과 턴제 게임을 턴마다 나눠서 플레이하며 밤새기도 했다.
@@ -75,7 +75,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [삼국지공명전 스토리 한번에 보기 [영화처럼 보는 고전RPG게임] (youtube.com)](https://www.youtube.com/watch?v=-XNp5_r-2Lk)
 
-{% include youtube.html id="-XNp5_r-2Lk" %}
+https://www.youtube.com/watch?v=-XNp5_r-2Lk
 
 
 지금껏 내 플레이를 봐도 SRPG를 엄청 많이 했고 즐겨했는데, 아이러니 하게도 삼국지 영걸전은 난 아직도 엔딩을 못봤다.
@@ -117,7 +117,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [01. 프린세스 메이커3 엔딩 '여왕' (youtube.com)](https://www.youtube.com/watch?v=T4qius8NAm8&list=PLxRMNW3TDuoHAbHEs_Zbe-Z_zz1DTYzPq)
 
-{% include youtube.html id="T4qius8NAm8" %}
+https://www.youtube.com/watch?v=T4qius8NAm8
 
 
 시리즈 매니아에게는 아쉽다는 평가를 많이 받은 게임이지만, 나는 이 게임이 너무 재밌다보니까 뒤에서 지켜보던 누나에게 컴퓨터 사용권을 뺏기게 된 슬픈 게임이기도 했다.
@@ -128,7 +128,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [파라솔 스타(parasol stars) 올클리어 (all clear) (youtube.com)](https://www.youtube.com/watch?v=Slsk6EopUoQ)
 
-{% include youtube.html id="Slsk6EopUoQ" %}
+https://www.youtube.com/watch?v=Slsk6EopUoQ
 
 나는 오락실에서 시간제로 즐겼던 파라솔 스타가 에뮬로도 있었다.
 
@@ -138,7 +138,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [4K) 스팀판) 한글판) 파트 01 | FF7 오리지널 Original (youtube.com)](https://www.youtube.com/watch?v=1GZWHycuIz0)
 
-{% include youtube.html id="1GZWHycuIz0" %}
+https://www.youtube.com/watch?v=1GZWHycuIz0
 
 잘 모르는 사람이 많지만, 파이날 판타지7은 PC로 정식발매가 됐었다.
 
@@ -150,7 +150,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [버그 천지!! 유저들의 뒷통수를 제대로 후려친 포가튼사가 이야기 (youtube.com)](https://www.youtube.com/watch?v=D1r-Irw7Vmk)
 
-{% include youtube.html id="D1r-Irw7Vmk" %}
+https://www.youtube.com/watch?v=D1r-Irw7Vmk
 
 지금이야 언급도 잘 안되지만, 90년대 중반만해도 소프트맥스의 창세기전과, 손노리의 어스토니시아 스토리는 양대산맥 같은 존재였다.
 
@@ -162,7 +162,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [고전 병맛게임 MDK (youtube.com)](https://www.youtube.com/watch?v=KiTGW6twiKw)
 
-{% include youtube.html id="KiTGW6twiKw" %}
+https://www.youtube.com/watch?v=KiTGW6twiKw
 
 3D 게임임에도 CPU만 펜티엄 급이면 잘 돌아가는 최적화로 많은 친구들 사이에서 유명했던 게임이다.
 
@@ -172,7 +172,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [[대항해시대3] 모든 백과사전 채우기 (1) (youtube.com)](https://www.youtube.com/watch?v=86Ly9wqamzM&list=PL_RqXC-CRDzm65ewJUVDTNGaKLB6x_Ops)
 
-{% include youtube.html id="86Ly9wqamzM" %}
+https://www.youtube.com/watch?v=86Ly9wqamzM
 
 자유도 높은 항해, 무역 게임이었다.
 
@@ -182,11 +182,11 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [파랜드 택틱스 | 제1화 여행 (youtube.com)](https://www.youtube.com/watch?v=8iz7zmVSuUc&list=PLif_jr7pPZADhF9MZ-kbTS48g6P2wKtgT)
 
-{% include youtube.html id="8iz7zmVSuUc" %}
+https://www.youtube.com/watch?v=8iz7zmVSuUc
 
 [파랜드 택틱스2 명칭 재번역 패치 - 20.04 방송분 (Farland Saga2) (youtube.com)](https://www.youtube.com/watch?v=sWvsTSDT36g&list=PL8vsk4sq-6-J7125xTK2LYZGir4N4ThWQ)
 
-{% include youtube.html id="sWvsTSDT36g" %}
+https://www.youtube.com/watch?v=sWvsTSDT36g
 
 아기자기한 그래픽과 쿼터뷰 시점, 직업별 특성의 디테일 등으로 많은 인기를 끈 명작이다.
 
@@ -196,7 +196,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [우리가 몰랐던 '스타 크래프트' TMI 16가지 이야기 (youtube.com)](https://www.youtube.com/watch?v=UNp3n0YASP8)
 
-{% include youtube.html id="UNp3n0YASP8" %}
+https://www.youtube.com/watch?v=UNp3n0YASP8
 
 자세한 설명을 생략한다.
 
@@ -204,7 +204,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [루카의 커맨드앤컨커 타이베리안선 GDI 미션 1 (youtube.com)](https://www.youtube.com/watch?v=U98OrejP7xc&list=PLu9VaUklMyROWFMTBH8Kxr7ZLMlVr7gw0)
 
-{% include youtube.html id="U98OrejP7xc" %}
+https://www.youtube.com/watch?v=U98OrejP7xc
 
 사실 워크래프트2까지만해도 RTS 양대산맥이면서 적어도 우리 동네에서는 C&C 레드얼럿이 더 인기가 많았다.
 
@@ -216,7 +216,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [히어로즈 오브 마이트 앤 매직2(HOMM2) 1화 - 아치발드 캠패인1 최초의 유혈 (youtube.com)](https://www.youtube.com/watch?v=OqYgx8doEYg&list=PL75zKu5LQ_19k1QLzg0bM4yrx-KiDVRn9)
 
-{% include youtube.html id="OqYgx8doEYg" %}
+https://www.youtube.com/watch?v=OqYgx8doEYg
 
 턴제 전략 게임의 역사에 남는 명작.
 
@@ -228,7 +228,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [[91점]블리자드를 바로세운 전설의 명작 | 디아블로(Diablo)리뷰 (youtube.com)](https://www.youtube.com/watch?v=L29znp_GECE)
 
-{% include youtube.html id="L29znp_GECE" %}
+https://www.youtube.com/watch?v=L29znp_GECE
 
 지금 보면 엉성하지만, 턴제 게임이 워낙 많던 당시를 생각해봤을 때 굉장히 액션성 있고 박진감 있는 게임이었다.
 
@@ -244,7 +244,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [아재가 추천하는 국내 RPG 고인물 게임 🎮창세기전 2 | 게임 리뷰 (youtube.com)](https://www.youtube.com/watch?v=blE03PiGTAI)
 
-{% include youtube.html id="blE03PiGTAI" %}
+https://www.youtube.com/watch?v=blE03PiGTAI
 
 내가 구입했었지만, 당시 컴퓨터 고장으로 친구에게 빌려줬고 친구가 플레이하는 걸 주로 지켜봤다.
 오히려 마이너한 용사 제국을 비롯한 다양한 SRPG나 RPG를 즐겼음에도 창세기전 2를 안했던 이유는, 친구들에게 빌려줬던 창세기전2가 분실된 충격 때문 아닐까 싶다.
@@ -253,7 +253,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [신검의전설 2 - 라이어 Legend of sword 2 - Liar 01 오프닝에서 감옥까지 (youtube.com)](https://www.youtube.com/watch?v=vPTZ3zDo3P4&list=PL9YU8JSu2dC7FUtRPX3dbwdCZjvKu_7jM)
 
-{% include youtube.html id="vPTZ3zDo3P4" %}
+https://www.youtube.com/watch?v=vPTZ3zDo3P4
 
 한 친구 녀석이 갈 때마다 즐겨서 인상 깊게 봤던 게임이다.
 울티마의 영향을 크게 받은 게임이라는 것은 나중에나 알게 됐지만, 한 세계를 탐험하는 느낌이 아주 인상적이었다.
@@ -262,7 +262,7 @@ DOOM의 인기로 하이퍼 FPS의 인기가 많던 시기에 나온 명작이�
 
 [[이스1 이터널] 20년전 몸통박치기 게임을 기억하십니까😊 (Ys I & II Chronicles+) (youtube.com)](https://www.youtube.com/watch?v=qr_CeA-Mbkc)
 
-{% include youtube.html id="qr_CeA-Mbkc" %}
+https://www.youtube.com/watch?v=qr_CeA-Mbkc
 
 이스 시리즈를 좋아하는 게이머가 당시에도 좀 많았는데, 나는 몸통 박치기 액션이라서 별로일 거 같아서 지켜만 봤다.
 

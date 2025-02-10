@@ -150,7 +150,7 @@ comments: true
 
 ### 1. GD - Home Sweet Home
 
-{% include youtube.html id="Ox29z5Nf1Uk" %}
+https://www.youtube.com/watch?v=Ox29z5Nf1Uk
 
 GD는 GD였다
 
@@ -161,7 +161,7 @@ Power도 좋았기에 겸사 겸사 공동 1위로 봐도 될 듯
 
 ### 2. 최예나 - 네모 네모
 
-{% include youtube.html id="8wjKgvKBz6o" %}
+https://www.youtube.com/watch?v=8wjKgvKBz6o
 
 네모 네모~ 네모 네모~ Sign~
 
@@ -169,7 +169,7 @@ Power도 좋았기에 겸사 겸사 공동 1위로 봐도 될 듯
 
 ### 3. NMIXX - 별별별
 
-{% include youtube.html id="hfsY3IGk45I" %}
+https://www.youtube.com/watch?v=hfsY3IGk45I
 
 워크맨 보다가 오해원을 보고 밝다고 느꼈는데 아이돌이었음
 
@@ -180,7 +180,7 @@ Power도 좋았기에 겸사 겸사 공동 1위로 봐도 될 듯
 
 ### 4. 김수영 - 사람 (Me, Myself)
 
-{% include youtube.html id="uUV44Q3GHng" %}
+https://www.youtube.com/watch?v=uUV44Q3GHng
 
 개인적으로 김수영의 보컬은 언제 들어도 매력적이다.
 
@@ -189,7 +189,7 @@ Power도 좋았기에 겸사 겸사 공동 1위로 봐도 될 듯
 
 ### 5. 슈퍼 주니어 - I Devil
 
-{% include youtube.html id="ckBitm_MwWQ" %}
+https://www.youtube.com/watch?v=ckBitm_MwWQ
 
 이 노래를 당시엔 못듣고 올해 늦게 들었는데 좋아서 자주 들었다.
 
