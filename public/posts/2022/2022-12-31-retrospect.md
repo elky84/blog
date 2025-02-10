@@ -71,12 +71,12 @@ GOG로 각종 인디 게임을, 플스나 엑박으로는 페르소나 5 로얄,
 ## 1. 올해의 게임
 
 1. 몬스터 헌터 월드
-    - {% include youtube.html id="n_DpEPyHcr4" %}
+    - https://www.youtube.com/watch?v=n_DpEPyHcr4
     - 몬헌의 명성은 여럿 들어왔고, 가볍게 시도한 적은 여럿 있었지만 메커니즘을 이해할 만큼 적응하지 못했었다.
     - 팀 동료분의 도움을 받아 게임에 적응하게 됐고, 성공적으로 어떠한 게임인지, 어떠한 재미를 추구하고, 어떻게 강해지고, 어떻게 난도를 파훼할 수 있는지 이해하게 되니 마음 한켠의 짐을 내려놓을 수 있었다.
         - 다음은 인왕과 다크 소울이닷
 2. 데스 루프
-    - {% include youtube.html id="WKYdlQhDeA8" %}
+    - https://www.youtube.com/watch?v=WKYdlQhDeA8
     - 아케인 스튜디오의 디스아너드 모든 시리즈를 클리어 할 만큼 재밌게 즐긴 회사의 작품이라 기대하고 있었던 작품
         - 초능력 위주의 스피디하고, 머리를 써서 효율적 플레이 (또는 비살상 플레이)를 해야 하는 게임 이었는데, 데스 루프는 조금 더 건슈팅에 가깝다고 해서 궁금하기도 했다.
     - 이름처럼 시간 루프물인데, 스테이지 갯수가 많지도 않고 이를 반복 플레이 하다보니 지루해질 수도 있는데, 건 슈팅으로서의 재미가 조금 더 강조됐고, 레벨 디자인이 괜찮고 쫄깃한 맛이 있어서 긴장감 있게, 많이 실패해가며 플레이했다.
@@ -84,7 +84,7 @@ GOG로 각종 인디 게임을, 플스나 엑박으로는 페르소나 5 로얄,
     - 플스 독점 1년이고, 베데스다가 MS에 인수되었으니 1년 되자마자 게임 패스로 나올걸 예상했는데 적중!
         - 험블 먼슬리에도 나와서, 게임패스로 플레이하다 스팀으로도 플레이 할 만큼 재밌었음
 3. 엘든링
-    - {% include youtube.html id="ujAoC_pZJUw" %}
+    - https://www.youtube.com/watch?v=ujAoC_pZJUw
     - 어렵다
         - 첫 보스부터 좌절
     - 뭘 해야 할지, 어떻게 해야 할지 역시 오픈월드
@@ -92,23 +92,23 @@ GOG로 각종 인디 게임을, 플스나 엑박으로는 페르소나 5 로얄,
     - 노가다로 극복이 일정 부분 가능하다는 점
     - 긴장감 있는 게임 구성으로 모험의 느낌도 살아나고, 잘 만든 세계를 탐험하는 재미도 있었
 4. 갓 오브 워 라그나로크
-    - {% include youtube.html id="gnYRbnSkS4Y" %}
+    - https://www.youtube.com/watch?v=gnYRbnSkS4Y
     - 전작이 훌륭했고 나 역시 재밌게 즐긴 편이었지만, 개인적으로 2018년의 내 맘속 GOTY는 레드 데드 리뎀션 2 였다.
     - 사람들의 대중적 의견대로, 볼륨이 더 커지고 그래픽이 더 좋아지고, 좀 더 완성도 있게 나온 것 같다.
 5. 헤일로 인피니트
-    - {% include youtube.html id="kURBW3VHMHc" %}
+    - https://www.youtube.com/watch?v=kURBW3VHMHc
     - 악평으로 기대를 하지 않았는데 생각보다 괜찮았음
     - 헤일로 시리즈의 전통적 팬까지는 아니라도, 시리즈마다 즐겨온 편이다보니 가산점도 있었음
     - 오픈 월드 방식으로 펼쳐지는 캠페인도, 구성도 괜찮았는데 시리즈의 팬이 아니라면 굳이…스러운 완성도인 것도 사실
         - 캠페인 진행 안되는 잔버그도 꽤 많았음
 6. 로스트 아크
-    - {% include youtube.html id="X7zCx6T1TQA" %}
+    - https://www.youtube.com/watch?v=X7zCx6T1TQA
     - 이 역시 유행의 흐름에 맞춰 어떠한 게임이고, 어떠한 재미를 추구하고, 무엇이 이 게임의 매력인지 알고 싶었음
     - 정돈 안된 UX, 재화 관리를 위해 나뉘어진 다양한 재화, 소모품 등으로 인한 혼잡, 점핑권으로 건너 뛴 것들에 대한 불친절한 설명은 여러가지 면에서 바쁘게 달려온 게임에서 느껴지는 흔한 아쉬움이고, 오래된 온라인 게임을 개발해온 입장에서도 이해 됐다.
     - 사이버 유격이라는 표현이 어울릴 법한 레이드는 썩 유쾌한 경험은 아니었음
     - 과금 유도가 아닌, 패턴 학습과 숙련도에 따라 엔드컨텐츠를 즐길 수 있는 점과 전투가 재밌고 업데이트 주기가 짧고, 유저 친화적 운영 등이 좋은 평가를 얻는 것 아닐까 싶다.
 7. 디스아너드2 방관자의 죽음
-    - {% include youtube.html id="h9En8a64gyw" %}
+    - https://www.youtube.com/watch?v=h9En8a64gyw
     - 데스 루프를 클리어하고, 여운이 남아서 쟁여뒀던 방관자의 죽음도 클리어했다.
     - 디스아너드 시리즈의 초능력 위주의 머리를 써가며 클리어 해나가는 재미가 짜릿하다. 경로를 고민하고, 몰래 숨어다니는 즐거움과, 때론 모아둔 물약 써가며 무쌍도 찍는 등 다양한 선택지가 가능하다.
         - 비살상 루트로 가지 않으면 엔딩이 제한되지만, 이또한 어떠랴.
@@ -117,44 +117,44 @@ GOG로 각종 인디 게임을, 플스나 엑박으로는 페르소나 5 로얄,
 ## 2. 올해의 영상
 
 1. 그 해 우리는
-    - {% include youtube.html id="IP08u-YjrF0" %}
+    - https://www.youtube.com/watch?v=IP08u-YjrF0
     - 올 한해 나를 설레게 했던 연초의 최애 드라마
     - 국연수와 최웅의 로맨스는 나에게 다시금 설렘의 감정을 가져다 줬다.
     - 첫사랑의 설레임, 그리고 그 이별의 원인이, 결말이 모두 좋았던 최근 몇년여를 되돌이켜봐도 베스트인 로맨스 드라마였다.
 2. 스토브 리그
-    - {% include youtube.html id="FSn93vXPuMY" %}
+    - https://www.youtube.com/watch?v=FSn93vXPuMY
     - 야구를 좋아하지 않는 나라서 피했던 드라마였는데, 하도 재밌다는 분들이 많아서 결국 보게 됐다.
     - 야구 드라마를 가장한 스포츠 매니지먼트 드라마에 가까웠으며, 소재가 야구 구단 관리 일 뿐 스포츠라면 있을 법한 소재를 섬세하게 잘 다뤘다고 생각한다.
     - 축구로 스토브 리그가 시즌2로 나오면 좋겠다.
     - 남궁민 연기력 ㄷㄷ
     - 박은빈 선은 니가 넘었어 연기도 ㄷㄷ
 3. 치얼업
-    - {% include youtube.html id="kIvhJiOjw8Y" %}
+    - https://www.youtube.com/watch?v=kIvhJiOjw8Y
     - 내 기준에선 전혀 모르는 배우들만 나와서 웹 드라마인줄 알았는데, 대학교 응원단을 배경으로 한 청춘 드라마였다
     - 올해 그 해 우리는을 시작으로, 로맨틱 코미디 혹은 로맨스 드라마가 좋았는데, 그 중에서 청춘 드라마스러운 풋풋한 매력이 있던 작품이었다.
 4. 이상한 변호사 우영우
-    - {% include youtube.html id="b6-hTTvb09Q" %}
+    - https://www.youtube.com/watch?v=b6-hTTvb09Q
     - 자폐를 가진 천재 변호사의 이야기
     - 워낙 박은빈의 연기도 좋았고, 소재도 좋았고 재밌게 봤던 드라마
 5. 부부의 세계
-    - {% include youtube.html id="QrCB1w8i7nk" %}
+    - https://www.youtube.com/watch?v=QrCB1w8i7nk
     - 막장의 세계라고 불리며 꽤 핫했던 작품
     - 유튜브에 알고리즘으로 뜨게 된 요약 영상을 보고 재미를 느껴 완주하게 된 드라마다.
     - 워낙에 전개나 연기가 훌륭해서, 내용이 막장이라고 해도 재미를 느끼기에 충분한 작품이었다.
         - 아직 안봤다면 추천
 6. 완벽한 타인
-    - {% include youtube.html id="h5WPOW0X_2I" %}
+    - https://www.youtube.com/watch?v=h5WPOW0X_2I
     - 누군가 식사 시간 동안 모든 통화, 문자, 메신져를 공개해야 된다면?
         - 당신은 모든 것을 투명하게 공개 할 수 있는가라는 소재를 퀄리티있게 구성했다.
         - 원작은 이탈리아 영화인 퍼펙트 스트레인저라고 한다.
     - 연극에도 어울리는 시나리오라서, 연극으로도 보고 싶은 작품
 7. 너덜트
-    - {% include youtube.html id="xJcJn8dtsAQ" %}
+    - https://www.youtube.com/watch?v=xJcJn8dtsAQ
     - 퀄리티 있는 짧은 영상으로 인기 있는 채널이다
     - 꽤 짧은 텀의 영상 업로드 주기에도 괜찮은 퀄리티의 영상이 꾸준히 올라오는 편
     - 이어폰으로 듣다보면 깔리는 음향 효과나 배경 음악 선별도 퀄리티있음
 8. 짧은 대본
-    - {% include youtube.html id="f7AQ-5YvmCU" %}
+    - https://www.youtube.com/watch?v=f7AQ-5YvmCU
     - 꽤 오래된 웹 드라마였는데 나는 올해 알게 됐다.
     - 대학 생활을 기반으로 벌어지는 다양한 소재를 유머스럽게, 때론 진지하게, 때론 외전으로 퀄리티 있게 만드는 웹 드라마
         - 보통 몇달 이상 가는 웹 드라마가 흔치 않았더라 (관심이 없어서 몰랐었음)
@@ -165,32 +165,32 @@ GOG로 각종 인디 게임을, 플스나 엑박으로는 페르소나 5 로얄,
 ## 3. 올해의 음악
 
 1. [김수영 - 비워내려고 합니다](https://www.youtube.com/watch?v=u-CCHDQVzr4)
-    - {% include youtube.html id="u-CCHDQVzr4" %}
+    - https://www.youtube.com/watch?v=u-CCHDQVzr4
     - 롤러코스터 노래를 워낙 좋아해서, 롤러코스터 습관을 듣다가 커버로, [김수영의 습관](https://www.youtube.com/watch?v=BkGwiykXgP4)을 듣게 됐고, 알고리즘의 추천으로 김수영 노래를 다수 듣게됐고 전반적으로 좋았다.
     - 밝은 노래보다는 어둡고 슬픈 노래가 좀 더 어울리는 보이스라고 생각한다.
 2. [김수영 - 언젠가 알겠지](https://www.youtube.com/watch?v=L1noKAhl1N4)
-    - {% include youtube.html id="L1noKAhl1N4" %}
+    - https://www.youtube.com/watch?v=L1noKAhl1N4
 3. [Sting - English man in new york](https://www.youtube.com/watch?v=pQ_K9QGCWE0)
-    - {% include youtube.html id="pQ_K9QGCWE0" %}
+    - https://www.youtube.com/watch?v=pQ_K9QGCWE0
     - [김수영 - English man in new york](https://www.youtube.com/watch?v=nT8o1SnL1YE) 을 듣고 알고리즘을 통해 알게 된 노래
     - Sting은 어렴풋이 알았지만, 잘 몰랐다보니 처음 들었다.
     - 구수한 영국식 발음과 스타일이 매력적이더라
 4. [바닐라 어쿠스틱 - 한번 쯤 니가 먼저](https://www.youtube.com/watch?v=n0rJheun9OM)
-    - {% include youtube.html id="n0rJheun9OM" %}
+    - https://www.youtube.com/watch?v=n0rJheun9OM
     - 인디 음악을 많이 듣는 편인데도, 올해 처음 듣게 된 바닐라 어쿠스틱의 두 곡
     - 나는 어쿠스틱 발라드 감성이 좋다.
 5. [바닐라 어쿠스틱 - 반지하 로맨스](https://www.youtube.com/watch?v=7ktrtP9U0RI)
-    - {% include youtube.html id="7ktrtP9U0RI" %}
+    - https://www.youtube.com/watch?v=7ktrtP9U0RI
 6. [윤하 - 비오는 날 듣기 좋은 노래](https://www.youtube.com/watch?v=Wy7Zxw6NDAs)
-    - {% include youtube.html id="Wy7Zxw6NDAs" %}
+    - https://www.youtube.com/watch?v=Wy7Zxw6NDAs
     - 윤하하면 또 비 아닌가!
     - Epik High의 노래의 동명의 노래의 윤하 버전
 7. [윤하 - 사건의 지평선](https://www.youtube.com/watch?v=73V3xrfiYMo)
-    - {% include youtube.html id="73V3xrfiYMo" %}
+    - https://www.youtube.com/watch?v=73V3xrfiYMo
     - 내가 아니더라도 많은 사람이 꼽을 역주행 신화라 고민했으나… 올해 새로운 노래를 많이 접하지 않아서 추천할 곡이 딱히 없어서 넣었다.
         - 물론 나도 아주 좋았던 노래
 8. [최정윤 - Delete You](https://www.youtube.com/watch?v=JrP3OHrf65A)
-    - {% include youtube.html id="JrP3OHrf65A" %}
+    - https://www.youtube.com/watch?v=JrP3OHrf65A
     - 90년대 감성의 설레임이 생각나는 노래
     - 뮤직비디오도 90년대 (80년대 일지도?) 감성이라, 옛 추억에 빠질 수도 있는 노래
 

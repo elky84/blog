@@ -48,7 +48,7 @@ MMX166은 금새 느려졌다.
 - 당시에 용산을 자주 갔는데, 틴 케이스에 들어있던 버전을 샀었다
 - 문명 1, 2를 안해보고 3로 입문했는데....
 
-{% include youtube.html id="3KVSCwQASbM" %}
+https://www.youtube.com/watch?v=3KVSCwQASbM
 
 ## 악튜러스
 
@@ -56,7 +56,7 @@ MMX166은 금새 느려졌다.
 - 여러 역사에 의해 소프트맥스보다는 손노리파였다보니까 구입하게 됐다
 - 초판, 재판 둘다 구매 했었는데 2D 스프라이트 + 3D 배경이라는 조합이 실제 체감으로도 나쁘지 않아서 지금도 종종 고전 게임 플레이 하는 분들이 자주 선택하는 게임
 
-{% include youtube.html id="ngMxhN6pWfg" %}
+https://www.youtube.com/watch?v=ngMxhN6pWfg
 
 ## 히어로즈 오브 마이트 앤 매직 3
 
@@ -64,7 +64,7 @@ MMX166은 금새 느려졌다.
 - 1편부터 조금씩 했고, 2편도 친구 집에서 꽤 길게 했으나 3편이야 말로 그 정수 같은 게임이었다.
 - 쉐도우 오브 데스는 지금도 팬들 사이에서 화자 될만한 명작인데 나 역시 쉐도우 오브 데스와 같은 재미는 이 시리즈에서 다시 못만날줄은 몰랐다.
 
-{% include youtube.html id="FW3ULCBOV2w" %}
+https://www.youtube.com/watch?v=FW3ULCBOV2w
 
 ## 챔피언 쉽 매니저 2002 K리그
 
@@ -72,7 +72,7 @@ MMX166은 금새 느려졌다.
 - 영상은 CM01/02인데, 나는 정발됐던 CM2002 K리그 버전으로 입문했다.
 - 월드컵의 영향을 받아 즐기게 됐었는데, 이외에도 피파 03, 피파 월드컵 2002도 즐기면서 축구를 좋아하게 됐기 이후의 CM버전이나 FM도 열심히 즐기게 됐다.
 
-{% include youtube.html id="R6fnjdEDmXk" %}
+https://www.youtube.com/watch?v=R6fnjdEDmXk
 
 ## 워크래프트 3
 
@@ -80,14 +80,14 @@ MMX166은 금새 느려졌다.
 - 재밌긴했는데 게임 템포가 길고, 운영이 너무 중요한 게임 스타일이 어려움을 느끼게 됐었다.
 - 야인시대 드라마가 워낙 인기일 때라 야인시대, DOTA, 타워 디펜스 등의 MOD도 많이 즐겼다
 
-{% include youtube.html id="MKgREM7JO8w" %}
+https://www.youtube.com/watch?v=MKgREM7JO8w
 
 ## 디아블로 2
 
 [디아블로2클래식 궁금하시죠? 이렇습니다 【디아블로2클래식 Diablo2classic】 - YouTube](https://www.youtube.com/watch?v=0nCWJW1s5Jw)
 - 디아블로 2의 국템 시절부터 짬짬이 즐겼는데, 하도 서버 이슈도 많고 복사 이슈도 많고 해서 카우방 돌면서 노는 재미로 했었다.
 
-{% include youtube.html id="0nCWJW1s5Jw" %}
+https://www.youtube.com/watch?v=0nCWJW1s5Jw
 
 ## 퀘이크 3 아레나
 
@@ -95,7 +95,7 @@ MMX166은 금새 느려졌다.
 - 사실 98년도부터 PC방에서 많이 즐겼던 게임인데, 당시 컴퓨터로는 잘 안돌아갔다보니 새로 산 컴퓨터에서 종종 즐겼다.
 - 퀘이크3는 워낙 넷플 방식도 다양하게 즐길 수 있다보니까, 하이퍼 슈팅 게임 답게 가볍게 즐기기 좋았다.
 
-{% include youtube.html id="Jse88q0k_28" %}
+https://www.youtube.com/watch?v=Jse88q0k_28
 
 ---
 
@@ -109,7 +109,7 @@ CPS2가 뭐냐면, 캡콤의 아케이드 시스템으로써 오락실용 기판
 
 [How Capcom's clever CPS2 Arcade Game Copy Protection stopped bootleg games | MVG](https://www.youtube.com/watch?v=vCtXZM8iG-o)
 
-{% include youtube.html id="vCtXZM8iG-o" %}
+https://www.youtube.com/watch?v=vCtXZM8iG-o
 
 [Arcade Hacker: A Journey Into Capcom's CPS2 Silicon - Part 1](https://arcadehacker.blogspot.com/2017/03/a-journey-into-capcoms-cps2-silicon.html)
 
