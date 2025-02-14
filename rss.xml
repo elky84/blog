@@ -4,9 +4,9 @@
         <description><![CDATA[테크 블로그]]></description>
         <link>https://elky84.github.io/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2025 05:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 13:06:42 GMT</lastBuildDate>
         <atom:link href="https://elky84.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Feb 2025 05:39:49 GMT</pubDate>
+        <pubDate>Fri, 14 Feb 2025 13:06:42 GMT</pubDate>
         <language><![CDATA[ko]]></language>
         <item>
             <title><![CDATA[리눅스 데스크탑 적응을 위한 리눅스 서버]]></title>
@@ -213,7 +213,7 @@
         </item>
         <item>
             <title><![CDATA[Nullable (Feat. Kotlin, C#)]]></title>
-            <description><![CDATA[Nullable (Feat. Kotlin, C#) - 태그: , nullable, C#, Java, Kotlin]]></description>
+            <description><![CDATA[Nullable (Feat. Kotlin, C#) - 태그: nullable, C#, Java, Kotlin]]></description>
             <link>https://elky84.github.io/blog#/posts/2022/2022-09-18-nullable</link>
             <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2022/2022-09-18-nullable</guid>
             <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
