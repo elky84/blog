@@ -1,7 +1,6 @@
-
 import { Link as RouterLink } from 'react-router-dom';
 
-import { AppBar, Toolbar, Typography, Button, Container, Box } from "@mui/material";;
+import { AppBar, Toolbar, Typography, Button, Container, Box } from "@mui/material";
 
 const Header = () => {
   const homepage = process.env.PUBLIC_URL || "";
@@ -19,10 +18,18 @@ const Header = () => {
               </Typography>
             </Box>
             {["/", "/about", "/project", `${baseDomain}/fan`, `${baseDomain}/review`, `${baseDomain}/apps`, `${baseDomain}/portfolio`].map((path, index) => (
-                <Button key={index} color="inherit" component={RouterLink} to={path} 
-                  sx={{ color: "primary.main", fontSize: "1.2rem" }}>
+                path.startsWith(baseDomain) ? (
+                  <Button key={index} color="inherit" component="a" href={path} 
+                    target="_blank" rel="noopener noreferrer"
+                    sx={{ color: "primary.main", fontSize: "1.2rem" }}>
                     {["Home", "About", "Project", "Fan", "Review", "Apps", "Portfolio"][index]}
-                </Button>
+                  </Button>
+                ) : (
+                  <Button key={index} color="inherit" component={RouterLink} to={path} 
+                    sx={{ color: "primary.main", fontSize: "1.2rem" }}>
+                    {["Home", "About", "Project", "Fan", "Review", "Apps", "Portfolio"][index]}
+                  </Button>
+                )
             ))}
           </Toolbar>
         </Container>
