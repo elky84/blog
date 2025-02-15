@@ -4,9 +4,9 @@
         <description><![CDATA[테크 블로그]]></description>
         <link>https://elky84.github.io/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Feb 2025 14:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 15:51:39 GMT</lastBuildDate>
         <atom:link href="https://elky84.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Feb 2025 14:36:25 GMT</pubDate>
+        <pubDate>Sat, 15 Feb 2025 15:51:39 GMT</pubDate>
         <language><![CDATA[ko]]></language>
         <item>
             <title><![CDATA[리눅스 데스크탑 적응을 위한 리눅스 서버]]></title>
