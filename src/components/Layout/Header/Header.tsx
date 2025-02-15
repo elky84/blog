@@ -6,8 +6,8 @@ const Header = () => {
   const homepage = process.env.PUBLIC_URL || "";
   const baseDomain = new URL(homepage, window.location.origin).origin;
 
-  const buttonLabels = ["Home", "About", "Project", "Fan", "Review", "Portfolio"];
-  const paths = ["/", "/about", "/project", `${baseDomain}/fan`, `${baseDomain}/review`, `${baseDomain}/portfolio`];
+  const buttonLabels = ["Home", "About", "Project", "Fan", "Review", "Portfolio", "Apps"];
+  const paths = ["/", "/about", "/project", `${baseDomain}/fan`, `${baseDomain}/review`, `${baseDomain}/portfolio`, `${baseDomain}/apps`];
 
   return (
     <>
