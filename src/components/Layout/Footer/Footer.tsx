@@ -2,7 +2,7 @@
 const Footer = () => {
     return (
       <div style={{display: "flex", alignItems: "center", alignContent: "center", justifyContent: "center"}}>
-        <h5>Elky's blog Blog</h5>        
+        <h5>Elky's Blog</h5>        
       </div>
     )
   }
