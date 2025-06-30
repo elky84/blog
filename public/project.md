@@ -17,7 +17,7 @@
 * Description
   * Online MMORPG Game
 
-{% include youtube.html id="TyfJbaNDxrA" %}
+https://www.youtube.com/watch?v=TyfJbaNDxrA
 
 ### Special Project 2
 
@@ -156,8 +156,8 @@
   * C++ based Server Patch Automation.
   * Monitoring (& Patch Automation) Tool Development.
 
-{% include youtube.html id="RNmQ4HOvnuo" %}
-  
+https://www.youtube.com/watch?v=RNmQ4HOvnuo
+
 ## MAIET Entertainment
 
 ![Logo](../../blog/img/logos/maiet.png)
@@ -195,7 +195,7 @@
   * Ruby(with C++) Server Patch Automation
   * Ruby(with C++) Monitoring Tool
 
-{% include youtube.html id="KRsIxJKumUg" %}
+https://www.youtube.com/watch?v=KRsIxJKumUg
 
 ## LV999
 
@@ -223,7 +223,7 @@
   * Rails Server
   * Unity3D Client
 
-{% include youtube.html id="O0icFg-BEiQ" %}
+https://www.youtube.com/watch?v=O0icFg-BEiQ
 
 ## Neoact
 
@@ -257,8 +257,8 @@
   * Socket Library Maintenance.
   * Server Contents Development.
 
-{% include youtube.html id="L8OtS7TRs7I" %}
-  
+https://www.youtube.com/watch?v=L8OtS7TRs7I
+
 ### Chaos Online
 
 * Role
@@ -277,7 +277,7 @@
   * Socket Library Development
   * SQL Server
 
-{% include youtube.html id="5G7EcqGAyrM" %}
+https://www.youtube.com/watch?v=5G7EcqGAyrM
 
 ## Xaimedia
 
@@ -302,7 +302,7 @@
   * Tool Development
   * Contents Development
 
-{% include youtube.html id="3GFo_K_PwMs" %}
+https://www.youtube.com/watch?v=3GFo_K_PwMs
 
 # Private Projects
 ## Game
