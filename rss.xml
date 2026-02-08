@@ -4,10 +4,17 @@
         <description><![CDATA[테크 블로그]]></description>
         <link>https://elky84.github.io/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 17:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 10:51:21 GMT</lastBuildDate>
         <atom:link href="https://elky84.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jun 2025 17:47:06 GMT</pubDate>
+        <pubDate>Sun, 08 Feb 2026 10:51:21 GMT</pubDate>
         <language><![CDATA[ko]]></language>
+        <item>
+            <title><![CDATA[2025 한해 회고]]></title>
+            <description><![CDATA[2025 한해 회고 - 태그: 회고]]></description>
+            <link>https://elky84.github.io/blog#/posts/2026/2026-02-07-retrospect</link>
+            <guid isPermaLink="true">https://elky84.github.io/blog#/posts/2026/2026-02-07-retrospect</guid>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[리눅스 데스크탑 적응을 위한 리눅스 서버]]></title>
             <description><![CDATA[리눅스 데스크탑 적응을 위한 리눅스 서버 - 태그: Windows, Linux, OS]]></description>

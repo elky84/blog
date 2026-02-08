@@ -1,6 +1,19 @@
 [
   {
     "layout": "post",
+    "title": "2025 한해 회고",
+    "date": "2026-02-07",
+    "categories": [
+      "회고"
+    ],
+    "tags": [
+      "회고"
+    ],
+    "comments": true,
+    "slug": "2026/2026-02-07-retrospect"
+  },
+  {
+    "layout": "post",
     "title": "리눅스 데스크탑 적응을 위한 리눅스 서버",
     "date": "2025-01-26",
     "categories": [
